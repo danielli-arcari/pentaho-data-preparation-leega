@@ -1,0 +1,4517 @@
+[
+  {
+    "municipios": "Adamantina",
+    "populacao_total": 33797,
+    "area_total_km2": 411.4,
+    "densidade_demografica_hab_km2": 82.16,
+    "codigo_unidade_geografica": 3500105
+  },
+  {
+    "municipios": "Adolfo",
+    "populacao_total": 3557,
+    "area_total_km2": 211.1,
+    "densidade_demografica_hab_km2": 16.85,
+    "codigo_unidade_geografica": 3500204
+  },
+  {
+    "municipios": "Aguaí",
+    "populacao_total": 32148,
+    "area_total_km2": 474.7,
+    "densidade_demografica_hab_km2": 67.72,
+    "codigo_unidade_geografica": 3500303
+  },
+  {
+    "municipios": "Águas da Prata",
+    "populacao_total": 7584,
+    "area_total_km2": 143.0,
+    "densidade_demografica_hab_km2": 53.05,
+    "codigo_unidade_geografica": 3500402
+  },
+  {
+    "municipios": "Águas de Lindóia",
+    "populacao_total": 17266,
+    "area_total_km2": 60.1,
+    "densidade_demografica_hab_km2": 287.16,
+    "codigo_unidade_geografica": 3500501
+  },
+  {
+    "municipios": "Águas de Santa Bárbara",
+    "populacao_total": 5601,
+    "area_total_km2": 408.0,
+    "densidade_demografica_hab_km2": 13.73,
+    "codigo_unidade_geografica": 3500550
+  },
+  {
+    "municipios": "Águas de São Pedro",
+    "populacao_total": 2707,
+    "area_total_km2": 5.4,
+    "densidade_demografica_hab_km2": 504.1,
+    "codigo_unidade_geografica": 3500600
+  },
+  {
+    "municipios": "Agudos",
+    "populacao_total": 34524,
+    "area_total_km2": 966.2,
+    "densidade_demografica_hab_km2": 35.73,
+    "codigo_unidade_geografica": 3500709
+  },
+  {
+    "municipios": "Alambari",
+    "populacao_total": 4884,
+    "area_total_km2": 159.3,
+    "densidade_demografica_hab_km2": 30.66,
+    "codigo_unidade_geografica": 3500758
+  },
+  {
+    "municipios": "Alfredo Marcondes",
+    "populacao_total": 3891,
+    "area_total_km2": 118.4,
+    "densidade_demografica_hab_km2": 32.86,
+    "codigo_unidade_geografica": 3500808
+  },
+  {
+    "municipios": "Altair",
+    "populacao_total": 3815,
+    "area_total_km2": 313.9,
+    "densidade_demografica_hab_km2": 12.16,
+    "codigo_unidade_geografica": 3500907
+  },
+  {
+    "municipios": "Altinópolis",
+    "populacao_total": 15607,
+    "area_total_km2": 929.8,
+    "densidade_demografica_hab_km2": 16.78,
+    "codigo_unidade_geografica": 3501004
+  },
+  {
+    "municipios": "Alto Alegre",
+    "populacao_total": 4102,
+    "area_total_km2": 319.0,
+    "densidade_demografica_hab_km2": 12.86,
+    "codigo_unidade_geografica": 3501103
+  },
+  {
+    "municipios": "Alumínio",
+    "populacao_total": 16839,
+    "area_total_km2": 83.8,
+    "densidade_demografica_hab_km2": 200.92,
+    "codigo_unidade_geografica": 3501152
+  },
+  {
+    "municipios": "Álvares Florence",
+    "populacao_total": 3897,
+    "area_total_km2": 362.9,
+    "densidade_demografica_hab_km2": 10.74,
+    "codigo_unidade_geografica": 3501202
+  },
+  {
+    "municipios": "Álvares Machado",
+    "populacao_total": 23513,
+    "area_total_km2": 347.4,
+    "densidade_demografica_hab_km2": 67.69,
+    "codigo_unidade_geografica": 3501301
+  },
+  {
+    "municipios": "Álvaro de Carvalho",
+    "populacao_total": 4650,
+    "area_total_km2": 153.2,
+    "densidade_demografica_hab_km2": 30.36,
+    "codigo_unidade_geografica": 3501400
+  },
+  {
+    "municipios": "Alvinlândia",
+    "populacao_total": 3000,
+    "area_total_km2": 84.8,
+    "densidade_demografica_hab_km2": 35.38,
+    "codigo_unidade_geografica": 3501509
+  },
+  {
+    "municipios": "Americana",
+    "populacao_total": 210638,
+    "area_total_km2": 133.4,
+    "densidade_demografica_hab_km2": 1579.59,
+    "codigo_unidade_geografica": 3501608
+  },
+  {
+    "municipios": "Américo Brasiliense",
+    "populacao_total": 34478,
+    "area_total_km2": 122.3,
+    "densidade_demografica_hab_km2": 281.99,
+    "codigo_unidade_geografica": 3501707
+  },
+  {
+    "municipios": "Américo de Campos",
+    "populacao_total": 5706,
+    "area_total_km2": 253.1,
+    "densidade_demografica_hab_km2": 22.54,
+    "codigo_unidade_geografica": 3501806
+  },
+  {
+    "municipios": "Amparo",
+    "populacao_total": 65829,
+    "area_total_km2": 445.6,
+    "densidade_demografica_hab_km2": 147.75,
+    "codigo_unidade_geografica": 3501905
+  },
+  {
+    "municipios": "Analândia",
+    "populacao_total": 4293,
+    "area_total_km2": 326.3,
+    "densidade_demografica_hab_km2": 13.16,
+    "codigo_unidade_geografica": 3502002
+  },
+  {
+    "municipios": "Andradina",
+    "populacao_total": 55334,
+    "area_total_km2": 964.2,
+    "densidade_demografica_hab_km2": 57.39,
+    "codigo_unidade_geografica": 3502101
+  },
+  {
+    "municipios": "Angatuba",
+    "populacao_total": 22210,
+    "area_total_km2": 1028.0,
+    "densidade_demografica_hab_km2": 21.61,
+    "codigo_unidade_geografica": 3502200
+  },
+  {
+    "municipios": "Anhembi",
+    "populacao_total": 5653,
+    "area_total_km2": 736.5,
+    "densidade_demografica_hab_km2": 7.68,
+    "codigo_unidade_geografica": 3502309
+  },
+  {
+    "municipios": "Anhumas",
+    "populacao_total": 3738,
+    "area_total_km2": 320.4,
+    "densidade_demografica_hab_km2": 11.67,
+    "codigo_unidade_geografica": 3502408
+  },
+  {
+    "municipios": "Aparecida",
+    "populacao_total": 35007,
+    "area_total_km2": 121.1,
+    "densidade_demografica_hab_km2": 289.12,
+    "codigo_unidade_geografica": 3502507
+  },
+  {
+    "municipios": "Aparecida d'Oeste",
+    "populacao_total": 4450,
+    "area_total_km2": 179.0,
+    "densidade_demografica_hab_km2": 24.86,
+    "codigo_unidade_geografica": 3502606
+  },
+  {
+    "municipios": "Apiaí",
+    "populacao_total": 25191,
+    "area_total_km2": 974.3,
+    "densidade_demografica_hab_km2": 25.85,
+    "codigo_unidade_geografica": 3502705
+  },
+  {
+    "municipios": "Araçariguama",
+    "populacao_total": 17080,
+    "area_total_km2": 146.3,
+    "densidade_demografica_hab_km2": 116.72,
+    "codigo_unidade_geografica": 3502754
+  },
+  {
+    "municipios": "Araçatuba",
+    "populacao_total": 181579,
+    "area_total_km2": 1167.4,
+    "densidade_demografica_hab_km2": 155.54,
+    "codigo_unidade_geografica": 3502804
+  },
+  {
+    "municipios": "Araçoiaba da Serra",
+    "populacao_total": 27299,
+    "area_total_km2": 255.4,
+    "densidade_demografica_hab_km2": 106.87,
+    "codigo_unidade_geografica": 3502903
+  },
+  {
+    "municipios": "Aramina",
+    "populacao_total": 5152,
+    "area_total_km2": 202.9,
+    "densidade_demografica_hab_km2": 25.39,
+    "codigo_unidade_geografica": 3503000
+  },
+  {
+    "municipios": "Arandu",
+    "populacao_total": 6123,
+    "area_total_km2": 285.9,
+    "densidade_demografica_hab_km2": 21.42,
+    "codigo_unidade_geografica": 3503109
+  },
+  {
+    "municipios": "Arapeí",
+    "populacao_total": 2493,
+    "area_total_km2": 156.8,
+    "densidade_demografica_hab_km2": 15.9,
+    "codigo_unidade_geografica": 3503158
+  },
+  {
+    "municipios": "Araraquara",
+    "populacao_total": 208662,
+    "area_total_km2": 1004.1,
+    "densidade_demografica_hab_km2": 207.8,
+    "codigo_unidade_geografica": 3503208
+  },
+  {
+    "municipios": "Araras",
+    "populacao_total": 118843,
+    "area_total_km2": 644.8,
+    "densidade_demografica_hab_km2": 184.3,
+    "codigo_unidade_geografica": 3503307
+  },
+  {
+    "municipios": "Arco-Íris",
+    "populacao_total": 1925,
+    "area_total_km2": 264.7,
+    "densidade_demografica_hab_km2": 7.27,
+    "codigo_unidade_geografica": 3503356
+  },
+  {
+    "municipios": "Arealva",
+    "populacao_total": 7841,
+    "area_total_km2": 505.0,
+    "densidade_demografica_hab_km2": 15.53,
+    "codigo_unidade_geografica": 3503406
+  },
+  {
+    "municipios": "Areias",
+    "populacao_total": 3696,
+    "area_total_km2": 305.2,
+    "densidade_demografica_hab_km2": 12.11,
+    "codigo_unidade_geografica": 3503505
+  },
+  {
+    "municipios": "Areiópolis",
+    "populacao_total": 10579,
+    "area_total_km2": 85.8,
+    "densidade_demografica_hab_km2": 123.34,
+    "codigo_unidade_geografica": 3503604
+  },
+  {
+    "municipios": "Ariranha",
+    "populacao_total": 8547,
+    "area_total_km2": 133.2,
+    "densidade_demografica_hab_km2": 64.19,
+    "codigo_unidade_geografica": 3503703
+  },
+  {
+    "municipios": "Artur Nogueira",
+    "populacao_total": 44177,
+    "area_total_km2": 178.0,
+    "densidade_demografica_hab_km2": 248.15,
+    "codigo_unidade_geografica": 3503802
+  },
+  {
+    "municipios": "Arujá",
+    "populacao_total": 74905,
+    "area_total_km2": 96.4,
+    "densidade_demografica_hab_km2": 777.35,
+    "codigo_unidade_geografica": 3503901
+  },
+  {
+    "municipios": "Aspásia",
+    "populacao_total": 1809,
+    "area_total_km2": 69.3,
+    "densidade_demografica_hab_km2": 26.09,
+    "codigo_unidade_geografica": 3503950
+  },
+  {
+    "municipios": "Assis",
+    "populacao_total": 95144,
+    "area_total_km2": 460.3,
+    "densidade_demografica_hab_km2": 206.7,
+    "codigo_unidade_geografica": 3504008
+  },
+  {
+    "municipios": "Atibaia",
+    "populacao_total": 126603,
+    "area_total_km2": 478.4,
+    "densidade_demografica_hab_km2": 264.61,
+    "codigo_unidade_geografica": 3504107
+  },
+  {
+    "municipios": "Auriflama",
+    "populacao_total": 14202,
+    "area_total_km2": 434.0,
+    "densidade_demografica_hab_km2": 32.72,
+    "codigo_unidade_geografica": 3504206
+  },
+  {
+    "municipios": "Avaí",
+    "populacao_total": 4959,
+    "area_total_km2": 540.5,
+    "densidade_demografica_hab_km2": 9.18,
+    "codigo_unidade_geografica": 3504305
+  },
+  {
+    "municipios": "Avanhandava",
+    "populacao_total": 11310,
+    "area_total_km2": 338.6,
+    "densidade_demografica_hab_km2": 33.4,
+    "codigo_unidade_geografica": 3504404
+  },
+  {
+    "municipios": "Avaré",
+    "populacao_total": 82934,
+    "area_total_km2": 1213.1,
+    "densidade_demografica_hab_km2": 68.37,
+    "codigo_unidade_geografica": 3504503
+  },
+  {
+    "municipios": "Bady Bassitt",
+    "populacao_total": 14603,
+    "area_total_km2": 108.5,
+    "densidade_demografica_hab_km2": 134.54,
+    "codigo_unidade_geografica": 3504602
+  },
+  {
+    "municipios": "Balbinos",
+    "populacao_total": 3702,
+    "area_total_km2": 91.6,
+    "densidade_demografica_hab_km2": 40.4,
+    "codigo_unidade_geografica": 3504701
+  },
+  {
+    "municipios": "Bálsamo",
+    "populacao_total": 8160,
+    "area_total_km2": 150.6,
+    "densidade_demografica_hab_km2": 54.18,
+    "codigo_unidade_geografica": 3504800
+  },
+  {
+    "municipios": "Bananal",
+    "populacao_total": 10223,
+    "area_total_km2": 616.0,
+    "densidade_demografica_hab_km2": 16.59,
+    "codigo_unidade_geografica": 3504909
+  },
+  {
+    "municipios": "Barão de Antonina",
+    "populacao_total": 3116,
+    "area_total_km2": 153.1,
+    "densidade_demografica_hab_km2": 20.35,
+    "codigo_unidade_geografica": 3505005
+  },
+  {
+    "municipios": "Barbosa",
+    "populacao_total": 6593,
+    "area_total_km2": 205.2,
+    "densidade_demografica_hab_km2": 32.14,
+    "codigo_unidade_geografica": 3505104
+  },
+  {
+    "municipios": "Bariri",
+    "populacao_total": 31593,
+    "area_total_km2": 444.1,
+    "densidade_demografica_hab_km2": 71.14,
+    "codigo_unidade_geografica": 3505203
+  },
+  {
+    "municipios": "Barra Bonita",
+    "populacao_total": 35246,
+    "area_total_km2": 149.9,
+    "densidade_demografica_hab_km2": 235.12,
+    "codigo_unidade_geografica": 3505302
+  },
+  {
+    "municipios": "Barra do Chapéu",
+    "populacao_total": 5244,
+    "area_total_km2": 405.7,
+    "densidade_demografica_hab_km2": 12.93,
+    "codigo_unidade_geografica": 3505351
+  },
+  {
+    "municipios": "Barra do Turvo",
+    "populacao_total": 7729,
+    "area_total_km2": 1007.8,
+    "densidade_demografica_hab_km2": 7.67,
+    "codigo_unidade_geografica": 3505401
+  },
+  {
+    "municipios": "Barretos",
+    "populacao_total": 112101,
+    "area_total_km2": 1565.6,
+    "densidade_demografica_hab_km2": 71.6,
+    "codigo_unidade_geografica": 3505500
+  },
+  {
+    "municipios": "Barrinha",
+    "populacao_total": 28496,
+    "area_total_km2": 145.6,
+    "densidade_demografica_hab_km2": 195.66,
+    "codigo_unidade_geografica": 3505609
+  },
+  {
+    "municipios": "Barueri",
+    "populacao_total": 240749,
+    "area_total_km2": 66.1,
+    "densidade_demografica_hab_km2": 3639.94,
+    "codigo_unidade_geografica": 3505708
+  },
+  {
+    "municipios": "Bastos",
+    "populacao_total": 20445,
+    "area_total_km2": 171.9,
+    "densidade_demografica_hab_km2": 118.95,
+    "codigo_unidade_geografica": 3505807
+  },
+  {
+    "municipios": "Batatais",
+    "populacao_total": 56476,
+    "area_total_km2": 849.5,
+    "densidade_demografica_hab_km2": 66.48,
+    "codigo_unidade_geografica": 3505906
+  },
+  {
+    "municipios": "Bauru",
+    "populacao_total": 343937,
+    "area_total_km2": 667.7,
+    "densidade_demografica_hab_km2": 515.12,
+    "codigo_unidade_geografica": 3506003
+  },
+  {
+    "municipios": "Bebedouro",
+    "populacao_total": 75035,
+    "area_total_km2": 683.3,
+    "densidade_demografica_hab_km2": 109.81,
+    "codigo_unidade_geografica": 3506102
+  },
+  {
+    "municipios": "Bento de Abreu",
+    "populacao_total": 2674,
+    "area_total_km2": 301.4,
+    "densidade_demografica_hab_km2": 8.87,
+    "codigo_unidade_geografica": 3506201
+  },
+  {
+    "municipios": "Bernardino de Campos",
+    "populacao_total": 10775,
+    "area_total_km2": 244.2,
+    "densidade_demografica_hab_km2": 44.12,
+    "codigo_unidade_geografica": 3506300
+  },
+  {
+    "municipios": "Bertioga",
+    "populacao_total": 47645,
+    "area_total_km2": 490.0,
+    "densidade_demografica_hab_km2": 97.23,
+    "codigo_unidade_geografica": 3506359
+  },
+  {
+    "municipios": "Bilac",
+    "populacao_total": 7048,
+    "area_total_km2": 157.9,
+    "densidade_demografica_hab_km2": 44.63,
+    "codigo_unidade_geografica": 3506409
+  },
+  {
+    "municipios": "Birigui",
+    "populacao_total": 108728,
+    "area_total_km2": 530.9,
+    "densidade_demografica_hab_km2": 204.79,
+    "codigo_unidade_geografica": 3506508
+  },
+  {
+    "municipios": "Biritiba-Mirim",
+    "populacao_total": 28575,
+    "area_total_km2": 317.2,
+    "densidade_demografica_hab_km2": 90.1,
+    "codigo_unidade_geografica": 3506607
+  },
+  {
+    "municipios": "Boa Esperança do Sul",
+    "populacao_total": 13645,
+    "area_total_km2": 690.8,
+    "densidade_demografica_hab_km2": 19.75,
+    "codigo_unidade_geografica": 3506706
+  },
+  {
+    "municipios": "Bocaina",
+    "populacao_total": 10859,
+    "area_total_km2": 363.9,
+    "densidade_demografica_hab_km2": 29.84,
+    "codigo_unidade_geografica": 3506805
+  },
+  {
+    "municipios": "Bofete",
+    "populacao_total": 9618,
+    "area_total_km2": 653.5,
+    "densidade_demografica_hab_km2": 14.72,
+    "codigo_unidade_geografica": 3506904
+  },
+  {
+    "municipios": "Boituva",
+    "populacao_total": 48314,
+    "area_total_km2": 249.0,
+    "densidade_demografica_hab_km2": 194.07,
+    "codigo_unidade_geografica": 3507001
+  },
+  {
+    "municipios": "Bom Jesus dos Perdões",
+    "populacao_total": 19708,
+    "area_total_km2": 107.6,
+    "densidade_demografica_hab_km2": 183.08,
+    "codigo_unidade_geografica": 3507100
+  },
+  {
+    "municipios": "Bom Sucesso de Itararé",
+    "populacao_total": 3571,
+    "area_total_km2": 133.6,
+    "densidade_demografica_hab_km2": 26.73,
+    "codigo_unidade_geografica": 3507159
+  },
+  {
+    "municipios": "Borá",
+    "populacao_total": 805,
+    "area_total_km2": 118.5,
+    "densidade_demografica_hab_km2": 6.8,
+    "codigo_unidade_geografica": 3507209
+  },
+  {
+    "municipios": "Boracéia",
+    "populacao_total": 4268,
+    "area_total_km2": 122.1,
+    "densidade_demografica_hab_km2": 34.95,
+    "codigo_unidade_geografica": 3507308
+  },
+  {
+    "municipios": "Borborema",
+    "populacao_total": 14529,
+    "area_total_km2": 552.3,
+    "densidade_demografica_hab_km2": 26.31,
+    "codigo_unidade_geografica": 3507407
+  },
+  {
+    "municipios": "Borebi",
+    "populacao_total": 2293,
+    "area_total_km2": 348.0,
+    "densidade_demografica_hab_km2": 6.59,
+    "codigo_unidade_geografica": 3507456
+  },
+  {
+    "municipios": "Botucatu",
+    "populacao_total": 127328,
+    "area_total_km2": 1482.6,
+    "densidade_demografica_hab_km2": 85.88,
+    "codigo_unidade_geografica": 3507506
+  },
+  {
+    "municipios": "Bragança Paulista",
+    "populacao_total": 146744,
+    "area_total_km2": 512.6,
+    "densidade_demografica_hab_km2": 286.26,
+    "codigo_unidade_geografica": 3507605
+  },
+  {
+    "municipios": "Braúna",
+    "populacao_total": 5021,
+    "area_total_km2": 195.3,
+    "densidade_demografica_hab_km2": 25.7,
+    "codigo_unidade_geografica": 3507704
+  },
+  {
+    "municipios": "Brejo Alegre",
+    "populacao_total": 2573,
+    "area_total_km2": 105.4,
+    "densidade_demografica_hab_km2": 24.41,
+    "codigo_unidade_geografica": 3507753
+  },
+  {
+    "municipios": "Brodowski",
+    "populacao_total": 21107,
+    "area_total_km2": 279.5,
+    "densidade_demografica_hab_km2": 75.51,
+    "codigo_unidade_geografica": 3507803
+  },
+  {
+    "municipios": "Brotas",
+    "populacao_total": 21580,
+    "area_total_km2": 1101.4,
+    "densidade_demografica_hab_km2": 19.59,
+    "codigo_unidade_geografica": 3507902
+  },
+  {
+    "municipios": "Buri",
+    "populacao_total": 18563,
+    "area_total_km2": 1195.9,
+    "densidade_demografica_hab_km2": 15.52,
+    "codigo_unidade_geografica": 3508009
+  },
+  {
+    "municipios": "Buritama",
+    "populacao_total": 15418,
+    "area_total_km2": 326.8,
+    "densidade_demografica_hab_km2": 47.19,
+    "codigo_unidade_geografica": 3508108
+  },
+  {
+    "municipios": "Buritizal",
+    "populacao_total": 4053,
+    "area_total_km2": 266.4,
+    "densidade_demografica_hab_km2": 15.21,
+    "codigo_unidade_geografica": 3508207
+  },
+  {
+    "municipios": "Cabrália Paulista",
+    "populacao_total": 4365,
+    "area_total_km2": 239.9,
+    "densidade_demografica_hab_km2": 18.19,
+    "codigo_unidade_geografica": 3508306
+  },
+  {
+    "municipios": "Cabreúva",
+    "populacao_total": 41604,
+    "area_total_km2": 260.2,
+    "densidade_demografica_hab_km2": 159.91,
+    "codigo_unidade_geografica": 3508405
+  },
+  {
+    "municipios": "Caçapava",
+    "populacao_total": 84752,
+    "area_total_km2": 370.2,
+    "densidade_demografica_hab_km2": 228.91,
+    "codigo_unidade_geografica": 3508504
+  },
+  {
+    "municipios": "Cachoeira Paulista",
+    "populacao_total": 30091,
+    "area_total_km2": 288.0,
+    "densidade_demografica_hab_km2": 104.49,
+    "codigo_unidade_geografica": 3508603
+  },
+  {
+    "municipios": "Caconde",
+    "populacao_total": 18538,
+    "area_total_km2": 470.0,
+    "densidade_demografica_hab_km2": 39.44,
+    "codigo_unidade_geografica": 3508702
+  },
+  {
+    "municipios": "Cafelândia",
+    "populacao_total": 16607,
+    "area_total_km2": 920.1,
+    "densidade_demografica_hab_km2": 18.05,
+    "codigo_unidade_geografica": 3508801
+  },
+  {
+    "municipios": "Caiabu",
+    "populacao_total": 4072,
+    "area_total_km2": 252.8,
+    "densidade_demografica_hab_km2": 16.11,
+    "codigo_unidade_geografica": 3508900
+  },
+  {
+    "municipios": "Caieiras",
+    "populacao_total": 86529,
+    "area_total_km2": 96.7,
+    "densidade_demografica_hab_km2": 894.84,
+    "codigo_unidade_geografica": 3509007
+  },
+  {
+    "municipios": "Caiuá",
+    "populacao_total": 5039,
+    "area_total_km2": 552.1,
+    "densidade_demografica_hab_km2": 9.13,
+    "codigo_unidade_geografica": 3509106
+  },
+  {
+    "municipios": "Cajamar",
+    "populacao_total": 64114,
+    "area_total_km2": 131.4,
+    "densidade_demografica_hab_km2": 487.92,
+    "codigo_unidade_geografica": 3509205
+  },
+  {
+    "municipios": "Cajati",
+    "populacao_total": 28372,
+    "area_total_km2": 454.4,
+    "densidade_demografica_hab_km2": 62.43,
+    "codigo_unidade_geografica": 3509254
+  },
+  {
+    "municipios": "Cajobi",
+    "populacao_total": 9768,
+    "area_total_km2": 176.9,
+    "densidade_demografica_hab_km2": 55.22,
+    "codigo_unidade_geografica": 3509304
+  },
+  {
+    "municipios": "Cajuru",
+    "populacao_total": 23371,
+    "area_total_km2": 660.1,
+    "densidade_demografica_hab_km2": 35.41,
+    "codigo_unidade_geografica": 3509403
+  },
+  {
+    "municipios": "Campina do Monte Alegre",
+    "populacao_total": 5567,
+    "area_total_km2": 185.0,
+    "densidade_demografica_hab_km2": 30.09,
+    "codigo_unidade_geografica": 3509452
+  },
+  {
+    "municipios": "Campinas",
+    "populacao_total": 1080113,
+    "area_total_km2": 795.0,
+    "densidade_demografica_hab_km2": 1358.63,
+    "codigo_unidade_geografica": 3509502
+  },
+  {
+    "municipios": "Campo Limpo Paulista",
+    "populacao_total": 74074,
+    "area_total_km2": 79.6,
+    "densidade_demografica_hab_km2": 930.79,
+    "codigo_unidade_geografica": 3509601
+  },
+  {
+    "municipios": "Campos do Jordão",
+    "populacao_total": 47789,
+    "area_total_km2": 290.5,
+    "densidade_demografica_hab_km2": 164.49,
+    "codigo_unidade_geografica": 3509700
+  },
+  {
+    "municipios": "Campos Novos Paulista",
+    "populacao_total": 4539,
+    "area_total_km2": 484.0,
+    "densidade_demografica_hab_km2": 9.38,
+    "codigo_unidade_geografica": 3509809
+  },
+  {
+    "municipios": "Cananéia",
+    "populacao_total": 12226,
+    "area_total_km2": 1242.9,
+    "densidade_demografica_hab_km2": 9.84,
+    "codigo_unidade_geografica": 3509908
+  },
+  {
+    "municipios": "Canas",
+    "populacao_total": 4385,
+    "area_total_km2": 53.3,
+    "densidade_demografica_hab_km2": 82.33,
+    "codigo_unidade_geografica": 3509957
+  },
+  {
+    "municipios": "Cândido Mota",
+    "populacao_total": 29884,
+    "area_total_km2": 596.2,
+    "densidade_demografica_hab_km2": 50.12,
+    "codigo_unidade_geografica": 3510005
+  },
+  {
+    "municipios": "Cândido Rodrigues",
+    "populacao_total": 2668,
+    "area_total_km2": 70.3,
+    "densidade_demografica_hab_km2": 37.94,
+    "codigo_unidade_geografica": 3510104
+  },
+  {
+    "municipios": "Canitar",
+    "populacao_total": 4369,
+    "area_total_km2": 57.2,
+    "densidade_demografica_hab_km2": 76.34,
+    "codigo_unidade_geografica": 3510153
+  },
+  {
+    "municipios": "Capão Bonito",
+    "populacao_total": 46178,
+    "area_total_km2": 1640.2,
+    "densidade_demografica_hab_km2": 28.15,
+    "codigo_unidade_geografica": 3510203
+  },
+  {
+    "municipios": "Capela do Alto",
+    "populacao_total": 17532,
+    "area_total_km2": 169.9,
+    "densidade_demografica_hab_km2": 103.2,
+    "codigo_unidade_geografica": 3510302
+  },
+  {
+    "municipios": "Capivari",
+    "populacao_total": 48576,
+    "area_total_km2": 322.7,
+    "densidade_demografica_hab_km2": 150.53,
+    "codigo_unidade_geografica": 3510401
+  },
+  {
+    "municipios": "Caraguatatuba",
+    "populacao_total": 100840,
+    "area_total_km2": 485.4,
+    "densidade_demografica_hab_km2": 207.76,
+    "codigo_unidade_geografica": 3510500
+  },
+  {
+    "municipios": "Carapicuíba",
+    "populacao_total": 369584,
+    "area_total_km2": 34.6,
+    "densidade_demografica_hab_km2": 10680.08,
+    "codigo_unidade_geografica": 3510609
+  },
+  {
+    "municipios": "Cardoso",
+    "populacao_total": 11805,
+    "area_total_km2": 639.7,
+    "densidade_demografica_hab_km2": 18.45,
+    "codigo_unidade_geografica": 3510708
+  },
+  {
+    "municipios": "Casa Branca",
+    "populacao_total": 28307,
+    "area_total_km2": 864.2,
+    "densidade_demografica_hab_km2": 32.76,
+    "codigo_unidade_geografica": 3510807
+  },
+  {
+    "municipios": "Cássia dos Coqueiros",
+    "populacao_total": 2634,
+    "area_total_km2": 191.7,
+    "densidade_demografica_hab_km2": 13.74,
+    "codigo_unidade_geografica": 3510906
+  },
+  {
+    "municipios": "Castilho",
+    "populacao_total": 18003,
+    "area_total_km2": 1065.8,
+    "densidade_demografica_hab_km2": 16.89,
+    "codigo_unidade_geografica": 3511003
+  },
+  {
+    "municipios": "Catanduva",
+    "populacao_total": 112820,
+    "area_total_km2": 290.6,
+    "densidade_demografica_hab_km2": 388.24,
+    "codigo_unidade_geografica": 3511102
+  },
+  {
+    "municipios": "Catiguá",
+    "populacao_total": 7127,
+    "area_total_km2": 148.4,
+    "densidade_demografica_hab_km2": 48.03,
+    "codigo_unidade_geografica": 3511201
+  },
+  {
+    "municipios": "Cedral",
+    "populacao_total": 7972,
+    "area_total_km2": 197.4,
+    "densidade_demografica_hab_km2": 40.38,
+    "codigo_unidade_geografica": 3511300
+  },
+  {
+    "municipios": "Cerqueira César",
+    "populacao_total": 17532,
+    "area_total_km2": 508.5,
+    "densidade_demografica_hab_km2": 34.48,
+    "codigo_unidade_geografica": 3511409
+  },
+  {
+    "municipios": "Cerquilho",
+    "populacao_total": 39617,
+    "area_total_km2": 127.8,
+    "densidade_demografica_hab_km2": 309.98,
+    "codigo_unidade_geografica": 3511508
+  },
+  {
+    "municipios": "Cesário Lange",
+    "populacao_total": 15540,
+    "area_total_km2": 190.8,
+    "densidade_demografica_hab_km2": 81.46,
+    "codigo_unidade_geografica": 3511607
+  },
+  {
+    "municipios": "Charqueada",
+    "populacao_total": 15085,
+    "area_total_km2": 175.8,
+    "densidade_demografica_hab_km2": 85.79,
+    "codigo_unidade_geografica": 3511706
+  },
+  {
+    "municipios": "Chavantes",
+    "populacao_total": 12114,
+    "area_total_km2": 188.1,
+    "densidade_demografica_hab_km2": 64.4,
+    "codigo_unidade_geografica": 3557204
+  },
+  {
+    "municipios": "Clementina",
+    "populacao_total": 7065,
+    "area_total_km2": 168.8,
+    "densidade_demografica_hab_km2": 41.85,
+    "codigo_unidade_geografica": 3511904
+  },
+  {
+    "municipios": "Colina",
+    "populacao_total": 17371,
+    "area_total_km2": 422.6,
+    "densidade_demografica_hab_km2": 41.11,
+    "codigo_unidade_geografica": 3512001
+  },
+  {
+    "municipios": "Colômbia",
+    "populacao_total": 5994,
+    "area_total_km2": 729.3,
+    "densidade_demografica_hab_km2": 8.22,
+    "codigo_unidade_geografica": 3512100
+  },
+  {
+    "municipios": "Conchal",
+    "populacao_total": 25229,
+    "area_total_km2": 182.8,
+    "densidade_demografica_hab_km2": 138.02,
+    "codigo_unidade_geografica": 3512209
+  },
+  {
+    "municipios": "Conchas",
+    "populacao_total": 16288,
+    "area_total_km2": 466.0,
+    "densidade_demografica_hab_km2": 34.95,
+    "codigo_unidade_geografica": 3512308
+  },
+  {
+    "municipios": "Cordeirópolis",
+    "populacao_total": 21080,
+    "area_total_km2": 137.6,
+    "densidade_demografica_hab_km2": 153.22,
+    "codigo_unidade_geografica": 3512407
+  },
+  {
+    "municipios": "Coroados",
+    "populacao_total": 5238,
+    "area_total_km2": 246.4,
+    "densidade_demografica_hab_km2": 21.26,
+    "codigo_unidade_geografica": 3512506
+  },
+  {
+    "municipios": "Coronel Macedo",
+    "populacao_total": 5001,
+    "area_total_km2": 303.9,
+    "densidade_demografica_hab_km2": 16.45,
+    "codigo_unidade_geografica": 3512605
+  },
+  {
+    "municipios": "Corumbataí",
+    "populacao_total": 3874,
+    "area_total_km2": 278.6,
+    "densidade_demografica_hab_km2": 13.9,
+    "codigo_unidade_geografica": 3512704
+  },
+  {
+    "municipios": "Cosmópolis",
+    "populacao_total": 58827,
+    "area_total_km2": 154.7,
+    "densidade_demografica_hab_km2": 380.37,
+    "codigo_unidade_geografica": 3512803
+  },
+  {
+    "municipios": "Cosmorama",
+    "populacao_total": 7214,
+    "area_total_km2": 443.8,
+    "densidade_demografica_hab_km2": 16.25,
+    "codigo_unidade_geografica": 3512902
+  },
+  {
+    "municipios": "Cotia",
+    "populacao_total": 201150,
+    "area_total_km2": 323.1,
+    "densidade_demografica_hab_km2": 622.55,
+    "codigo_unidade_geografica": 3513009
+  },
+  {
+    "municipios": "Cravinhos",
+    "populacao_total": 31691,
+    "area_total_km2": 311.2,
+    "densidade_demografica_hab_km2": 101.84,
+    "codigo_unidade_geografica": 3513108
+  },
+  {
+    "municipios": "Cristais Paulista",
+    "populacao_total": 7588,
+    "area_total_km2": 385.2,
+    "densidade_demografica_hab_km2": 19.7,
+    "codigo_unidade_geografica": 3513207
+  },
+  {
+    "municipios": "Cruzália",
+    "populacao_total": 2274,
+    "area_total_km2": 149.1,
+    "densidade_demografica_hab_km2": 15.26,
+    "codigo_unidade_geografica": 3513306
+  },
+  {
+    "municipios": "Cruzeiro",
+    "populacao_total": 77039,
+    "area_total_km2": 305.7,
+    "densidade_demografica_hab_km2": 252.01,
+    "codigo_unidade_geografica": 3513405
+  },
+  {
+    "municipios": "Cubatão",
+    "populacao_total": 118720,
+    "area_total_km2": 142.4,
+    "densidade_demografica_hab_km2": 833.81,
+    "codigo_unidade_geografica": 3513504
+  },
+  {
+    "municipios": "Cunha",
+    "populacao_total": 21866,
+    "area_total_km2": 1407.3,
+    "densidade_demografica_hab_km2": 15.54,
+    "codigo_unidade_geografica": 3513603
+  },
+  {
+    "municipios": "Descalvado",
+    "populacao_total": 31056,
+    "area_total_km2": 753.7,
+    "densidade_demografica_hab_km2": 41.2,
+    "codigo_unidade_geografica": 3513702
+  },
+  {
+    "municipios": "Diadema",
+    "populacao_total": 386089,
+    "area_total_km2": 30.8,
+    "densidade_demografica_hab_km2": 12519.1,
+    "codigo_unidade_geografica": 3513801
+  },
+  {
+    "municipios": "Dirce Reis",
+    "populacao_total": 1689,
+    "area_total_km2": 88.4,
+    "densidade_demografica_hab_km2": 19.12,
+    "codigo_unidade_geografica": 3513850
+  },
+  {
+    "municipios": "Divinolândia",
+    "populacao_total": 11208,
+    "area_total_km2": 222.1,
+    "densidade_demografica_hab_km2": 50.46,
+    "codigo_unidade_geografica": 3513900
+  },
+  {
+    "municipios": "Dobrada",
+    "populacao_total": 7939,
+    "area_total_km2": 149.7,
+    "densidade_demografica_hab_km2": 53.02,
+    "codigo_unidade_geografica": 3514007
+  },
+  {
+    "municipios": "Dois Córregos",
+    "populacao_total": 24761,
+    "area_total_km2": 633.0,
+    "densidade_demografica_hab_km2": 39.12,
+    "codigo_unidade_geografica": 3514106
+  },
+  {
+    "municipios": "Dolcinópolis",
+    "populacao_total": 2096,
+    "area_total_km2": 78.3,
+    "densidade_demografica_hab_km2": 26.76,
+    "codigo_unidade_geografica": 3514205
+  },
+  {
+    "municipios": "Dourado",
+    "populacao_total": 8609,
+    "area_total_km2": 205.9,
+    "densidade_demografica_hab_km2": 41.82,
+    "codigo_unidade_geografica": 3514304
+  },
+  {
+    "municipios": "Dracena",
+    "populacao_total": 43258,
+    "area_total_km2": 488.0,
+    "densidade_demografica_hab_km2": 88.64,
+    "codigo_unidade_geografica": 3514403
+  },
+  {
+    "municipios": "Duartina",
+    "populacao_total": 12251,
+    "area_total_km2": 264.6,
+    "densidade_demografica_hab_km2": 46.31,
+    "codigo_unidade_geografica": 3514502
+  },
+  {
+    "municipios": "Dumont",
+    "populacao_total": 8143,
+    "area_total_km2": 111.3,
+    "densidade_demografica_hab_km2": 73.19,
+    "codigo_unidade_geografica": 3514601
+  },
+  {
+    "municipios": "Echaporã",
+    "populacao_total": 6318,
+    "area_total_km2": 515.4,
+    "densidade_demografica_hab_km2": 12.26,
+    "codigo_unidade_geografica": 3514700
+  },
+  {
+    "municipios": "Eldorado",
+    "populacao_total": 14641,
+    "area_total_km2": 1654.3,
+    "densidade_demografica_hab_km2": 8.85,
+    "codigo_unidade_geografica": 3514809
+  },
+  {
+    "municipios": "Elias Fausto",
+    "populacao_total": 15775,
+    "area_total_km2": 202.7,
+    "densidade_demografica_hab_km2": 77.83,
+    "codigo_unidade_geografica": 3514908
+  },
+  {
+    "municipios": "Elisiário",
+    "populacao_total": 3120,
+    "area_total_km2": 94.0,
+    "densidade_demografica_hab_km2": 33.2,
+    "codigo_unidade_geografica": 3514924
+  },
+  {
+    "municipios": "Embaúba",
+    "populacao_total": 2423,
+    "area_total_km2": 83.1,
+    "densidade_demografica_hab_km2": 29.15,
+    "codigo_unidade_geografica": 3514957
+  },
+  {
+    "municipios": "Embu",
+    "populacao_total": 240230,
+    "area_total_km2": 70.4,
+    "densidade_demografica_hab_km2": 3412.5,
+    "codigo_unidade_geografica": 3515004
+  },
+  {
+    "municipios": "Embu-Guaçu",
+    "populacao_total": 62769,
+    "area_total_km2": 154.9,
+    "densidade_demografica_hab_km2": 405.11,
+    "codigo_unidade_geografica": 3515103
+  },
+  {
+    "municipios": "Emilianópolis",
+    "populacao_total": 3020,
+    "area_total_km2": 224.5,
+    "densidade_demografica_hab_km2": 13.45,
+    "codigo_unidade_geografica": 3515129
+  },
+  {
+    "municipios": "Engenheiro Coelho",
+    "populacao_total": 15721,
+    "area_total_km2": 109.9,
+    "densidade_demografica_hab_km2": 142.99,
+    "codigo_unidade_geografica": 3515152
+  },
+  {
+    "municipios": "Espírito Santo do Pinhal",
+    "populacao_total": 41907,
+    "area_total_km2": 389.4,
+    "densidade_demografica_hab_km2": 107.61,
+    "codigo_unidade_geografica": 3515186
+  },
+  {
+    "municipios": "Espírito Santo do Turvo",
+    "populacao_total": 4244,
+    "area_total_km2": 193.7,
+    "densidade_demografica_hab_km2": 21.92,
+    "codigo_unidade_geografica": 3515194
+  },
+  {
+    "municipios": "Estiva Gerbi",
+    "populacao_total": 10044,
+    "area_total_km2": 74.2,
+    "densidade_demografica_hab_km2": 135.35,
+    "codigo_unidade_geografica": 3557303
+  },
+  {
+    "municipios": "Estrela do Norte",
+    "populacao_total": 2658,
+    "area_total_km2": 263.4,
+    "densidade_demografica_hab_km2": 10.09,
+    "codigo_unidade_geografica": 3515301
+  },
+  {
+    "municipios": "Estrela d'Oeste",
+    "populacao_total": 8208,
+    "area_total_km2": 296.4,
+    "densidade_demografica_hab_km2": 27.69,
+    "codigo_unidade_geografica": 3515202
+  },
+  {
+    "municipios": "Euclides da Cunha Paulista",
+    "populacao_total": 9585,
+    "area_total_km2": 575.2,
+    "densidade_demografica_hab_km2": 16.66,
+    "codigo_unidade_geografica": 3515350
+  },
+  {
+    "municipios": "Fartura",
+    "populacao_total": 15320,
+    "area_total_km2": 429.2,
+    "densidade_demografica_hab_km2": 35.7,
+    "codigo_unidade_geografica": 3515400
+  },
+  {
+    "municipios": "Fernando Prestes",
+    "populacao_total": 5534,
+    "area_total_km2": 170.7,
+    "densidade_demografica_hab_km2": 32.43,
+    "codigo_unidade_geografica": 3515608
+  },
+  {
+    "municipios": "Fernandópolis",
+    "populacao_total": 64696,
+    "area_total_km2": 550.0,
+    "densidade_demografica_hab_km2": 117.62,
+    "codigo_unidade_geografica": 3515509
+  },
+  {
+    "municipios": "Fernão",
+    "populacao_total": 1563,
+    "area_total_km2": 100.8,
+    "densidade_demografica_hab_km2": 15.51,
+    "codigo_unidade_geografica": 3515657
+  },
+  {
+    "municipios": "Ferraz de Vasconcelos",
+    "populacao_total": 168306,
+    "area_total_km2": 29.9,
+    "densidade_demografica_hab_km2": 5624.82,
+    "codigo_unidade_geografica": 3515707
+  },
+  {
+    "municipios": "Flora Rica",
+    "populacao_total": 1752,
+    "area_total_km2": 225.3,
+    "densidade_demografica_hab_km2": 7.78,
+    "codigo_unidade_geografica": 3515806
+  },
+  {
+    "municipios": "Floreal",
+    "populacao_total": 3003,
+    "area_total_km2": 204.3,
+    "densidade_demografica_hab_km2": 14.7,
+    "codigo_unidade_geografica": 3515905
+  },
+  {
+    "municipios": "Flórida Paulista",
+    "populacao_total": 12848,
+    "area_total_km2": 525.1,
+    "densidade_demografica_hab_km2": 24.47,
+    "codigo_unidade_geografica": 3516002
+  },
+  {
+    "municipios": "Florínia",
+    "populacao_total": 2829,
+    "area_total_km2": 225.6,
+    "densidade_demografica_hab_km2": 12.54,
+    "codigo_unidade_geografica": 3516101
+  },
+  {
+    "municipios": "Franca",
+    "populacao_total": 318640,
+    "area_total_km2": 605.7,
+    "densidade_demografica_hab_km2": 526.09,
+    "codigo_unidade_geografica": 3516200
+  },
+  {
+    "municipios": "Francisco Morato",
+    "populacao_total": 154472,
+    "area_total_km2": 49.3,
+    "densidade_demografica_hab_km2": 3130.45,
+    "codigo_unidade_geografica": 3516309
+  },
+  {
+    "municipios": "Franco da Rocha",
+    "populacao_total": 131604,
+    "area_total_km2": 134.1,
+    "densidade_demografica_hab_km2": 981.28,
+    "codigo_unidade_geografica": 3516408
+  },
+  {
+    "municipios": "Gabriel Monteiro",
+    "populacao_total": 2708,
+    "area_total_km2": 138.5,
+    "densidade_demografica_hab_km2": 19.55,
+    "codigo_unidade_geografica": 3516507
+  },
+  {
+    "municipios": "Gália",
+    "populacao_total": 7011,
+    "area_total_km2": 356.0,
+    "densidade_demografica_hab_km2": 19.69,
+    "codigo_unidade_geografica": 3516606
+  },
+  {
+    "municipios": "Garça",
+    "populacao_total": 43115,
+    "area_total_km2": 555.6,
+    "densidade_demografica_hab_km2": 77.6,
+    "codigo_unidade_geografica": 3516705
+  },
+  {
+    "municipios": "Gastão Vidigal",
+    "populacao_total": 4193,
+    "area_total_km2": 180.9,
+    "densidade_demografica_hab_km2": 23.17,
+    "codigo_unidade_geografica": 3516804
+  },
+  {
+    "municipios": "Gavião Peixoto",
+    "populacao_total": 4419,
+    "area_total_km2": 243.8,
+    "densidade_demografica_hab_km2": 18.13,
+    "codigo_unidade_geografica": 3516853
+  },
+  {
+    "municipios": "General Salgado",
+    "populacao_total": 10669,
+    "area_total_km2": 493.3,
+    "densidade_demografica_hab_km2": 21.63,
+    "codigo_unidade_geografica": 3516903
+  },
+  {
+    "municipios": "Getulina",
+    "populacao_total": 10765,
+    "area_total_km2": 678.7,
+    "densidade_demografica_hab_km2": 15.86,
+    "codigo_unidade_geografica": 3517000
+  },
+  {
+    "municipios": "Glicério",
+    "populacao_total": 4565,
+    "area_total_km2": 273.6,
+    "densidade_demografica_hab_km2": 16.69,
+    "codigo_unidade_geografica": 3517109
+  },
+  {
+    "municipios": "Guaiçara",
+    "populacao_total": 10670,
+    "area_total_km2": 270.2,
+    "densidade_demografica_hab_km2": 39.48,
+    "codigo_unidade_geografica": 3517208
+  },
+  {
+    "municipios": "Guaimbê",
+    "populacao_total": 5425,
+    "area_total_km2": 218.0,
+    "densidade_demografica_hab_km2": 24.88,
+    "codigo_unidade_geografica": 3517307
+  },
+  {
+    "municipios": "Guaíra",
+    "populacao_total": 37404,
+    "area_total_km2": 1258.5,
+    "densidade_demografica_hab_km2": 29.72,
+    "codigo_unidade_geografica": 3517406
+  },
+  {
+    "municipios": "Guapiaçu",
+    "populacao_total": 17869,
+    "area_total_km2": 326.0,
+    "densidade_demografica_hab_km2": 54.81,
+    "codigo_unidade_geografica": 3517505
+  },
+  {
+    "municipios": "Guapiara",
+    "populacao_total": 17998,
+    "area_total_km2": 408.3,
+    "densidade_demografica_hab_km2": 44.08,
+    "codigo_unidade_geografica": 3517604
+  },
+  {
+    "municipios": "Guará",
+    "populacao_total": 19858,
+    "area_total_km2": 362.5,
+    "densidade_demografica_hab_km2": 54.78,
+    "codigo_unidade_geografica": 3517703
+  },
+  {
+    "municipios": "Guaraçaí",
+    "populacao_total": 8435,
+    "area_total_km2": 569.9,
+    "densidade_demografica_hab_km2": 14.8,
+    "codigo_unidade_geografica": 3517802
+  },
+  {
+    "municipios": "Guaraci",
+    "populacao_total": 9976,
+    "area_total_km2": 641.5,
+    "densidade_demografica_hab_km2": 15.55,
+    "codigo_unidade_geografica": 3517901
+  },
+  {
+    "municipios": "Guarani d'Oeste",
+    "populacao_total": 1970,
+    "area_total_km2": 85.5,
+    "densidade_demografica_hab_km2": 23.03,
+    "codigo_unidade_geografica": 3518008
+  },
+  {
+    "municipios": "Guarantã",
+    "populacao_total": 6404,
+    "area_total_km2": 461.1,
+    "densidade_demografica_hab_km2": 13.89,
+    "codigo_unidade_geografica": 3518107
+  },
+  {
+    "municipios": "Guararapes",
+    "populacao_total": 30597,
+    "area_total_km2": 956.3,
+    "densidade_demografica_hab_km2": 31.99,
+    "codigo_unidade_geografica": 3518206
+  },
+  {
+    "municipios": "Guararema",
+    "populacao_total": 25844,
+    "area_total_km2": 270.6,
+    "densidade_demografica_hab_km2": 95.5,
+    "codigo_unidade_geografica": 3518305
+  },
+  {
+    "municipios": "Guaratinguetá",
+    "populacao_total": 112072,
+    "area_total_km2": 752.4,
+    "densidade_demografica_hab_km2": 148.95,
+    "codigo_unidade_geografica": 3518404
+  },
+  {
+    "municipios": "Guareí",
+    "populacao_total": 14565,
+    "area_total_km2": 566.3,
+    "densidade_demografica_hab_km2": 25.72,
+    "codigo_unidade_geografica": 3518503
+  },
+  {
+    "municipios": "Guariba",
+    "populacao_total": 35486,
+    "area_total_km2": 270.3,
+    "densidade_demografica_hab_km2": 131.29,
+    "codigo_unidade_geografica": 3518602
+  },
+  {
+    "municipios": "Guarujá",
+    "populacao_total": 290752,
+    "area_total_km2": 142.9,
+    "densidade_demografica_hab_km2": 2034.91,
+    "codigo_unidade_geografica": 3518701
+  },
+  {
+    "municipios": "Guarulhos",
+    "populacao_total": 1221979,
+    "area_total_km2": 319.2,
+    "densidade_demografica_hab_km2": 3828.36,
+    "codigo_unidade_geografica": 3518800
+  },
+  {
+    "municipios": "Guatapará",
+    "populacao_total": 6966,
+    "area_total_km2": 413.1,
+    "densidade_demografica_hab_km2": 16.86,
+    "codigo_unidade_geografica": 3518859
+  },
+  {
+    "municipios": "Guzolândia",
+    "populacao_total": 4754,
+    "area_total_km2": 252.0,
+    "densidade_demografica_hab_km2": 18.86,
+    "codigo_unidade_geografica": 3518909
+  },
+  {
+    "municipios": "Herculândia",
+    "populacao_total": 8696,
+    "area_total_km2": 364.6,
+    "densidade_demografica_hab_km2": 23.85,
+    "codigo_unidade_geografica": 3519006
+  },
+  {
+    "municipios": "Holambra",
+    "populacao_total": 11299,
+    "area_total_km2": 65.6,
+    "densidade_demografica_hab_km2": 172.3,
+    "codigo_unidade_geografica": 3519055
+  },
+  {
+    "municipios": "Hortolândia",
+    "populacao_total": 192692,
+    "area_total_km2": 62.5,
+    "densidade_demografica_hab_km2": 3082.92,
+    "codigo_unidade_geografica": 3519071
+  },
+  {
+    "municipios": "Iacanga",
+    "populacao_total": 10013,
+    "area_total_km2": 547.4,
+    "densidade_demografica_hab_km2": 18.29,
+    "codigo_unidade_geografica": 3519105
+  },
+  {
+    "municipios": "Iacri",
+    "populacao_total": 6419,
+    "area_total_km2": 322.6,
+    "densidade_demografica_hab_km2": 19.9,
+    "codigo_unidade_geografica": 3519204
+  },
+  {
+    "municipios": "Iaras",
+    "populacao_total": 6376,
+    "area_total_km2": 401.3,
+    "densidade_demografica_hab_km2": 15.89,
+    "codigo_unidade_geografica": 3519253
+  },
+  {
+    "municipios": "Ibaté",
+    "populacao_total": 30734,
+    "area_total_km2": 290.7,
+    "densidade_demografica_hab_km2": 105.74,
+    "codigo_unidade_geografica": 3519303
+  },
+  {
+    "municipios": "Ibirá",
+    "populacao_total": 10896,
+    "area_total_km2": 271.9,
+    "densidade_demografica_hab_km2": 40.07,
+    "codigo_unidade_geografica": 3519402
+  },
+  {
+    "municipios": "Ibirarema",
+    "populacao_total": 6725,
+    "area_total_km2": 228.3,
+    "densidade_demografica_hab_km2": 29.45,
+    "codigo_unidade_geografica": 3519501
+  },
+  {
+    "municipios": "Ibitinga",
+    "populacao_total": 53158,
+    "area_total_km2": 689.3,
+    "densidade_demografica_hab_km2": 77.12,
+    "codigo_unidade_geografica": 3519600
+  },
+  {
+    "municipios": "Ibiúna",
+    "populacao_total": 71217,
+    "area_total_km2": 1057.5,
+    "densidade_demografica_hab_km2": 67.34,
+    "codigo_unidade_geografica": 3519709
+  },
+  {
+    "municipios": "Icém",
+    "populacao_total": 7462,
+    "area_total_km2": 362.6,
+    "densidade_demografica_hab_km2": 20.58,
+    "codigo_unidade_geografica": 3519808
+  },
+  {
+    "municipios": "Iepê",
+    "populacao_total": 7628,
+    "area_total_km2": 595.5,
+    "densidade_demografica_hab_km2": 12.81,
+    "codigo_unidade_geografica": 3519907
+  },
+  {
+    "municipios": "Igaraçu do Tietê",
+    "populacao_total": 23362,
+    "area_total_km2": 97.7,
+    "densidade_demografica_hab_km2": 239.07,
+    "codigo_unidade_geografica": 3520004
+  },
+  {
+    "municipios": "Igarapava",
+    "populacao_total": 27952,
+    "area_total_km2": 468.2,
+    "densidade_demografica_hab_km2": 59.7,
+    "codigo_unidade_geografica": 3520103
+  },
+  {
+    "municipios": "Igaratá",
+    "populacao_total": 8831,
+    "area_total_km2": 293.0,
+    "densidade_demografica_hab_km2": 30.14,
+    "codigo_unidade_geografica": 3520202
+  },
+  {
+    "municipios": "Iguape",
+    "populacao_total": 28841,
+    "area_total_km2": 1977.4,
+    "densidade_demografica_hab_km2": 14.59,
+    "codigo_unidade_geografica": 3520301
+  },
+  {
+    "municipios": "Ilha Comprida",
+    "populacao_total": 9025,
+    "area_total_km2": 188.4,
+    "densidade_demografica_hab_km2": 47.9,
+    "codigo_unidade_geografica": 3520426
+  },
+  {
+    "municipios": "Ilha Solteira",
+    "populacao_total": 25064,
+    "area_total_km2": 656.2,
+    "densidade_demografica_hab_km2": 38.19,
+    "codigo_unidade_geografica": 3520442
+  },
+  {
+    "municipios": "Ilhabela",
+    "populacao_total": 28196,
+    "area_total_km2": 347.5,
+    "densidade_demografica_hab_km2": 81.13,
+    "codigo_unidade_geografica": 3520400
+  },
+  {
+    "municipios": "Indaiatuba",
+    "populacao_total": 201619,
+    "area_total_km2": 311.4,
+    "densidade_demografica_hab_km2": 647.54,
+    "codigo_unidade_geografica": 3520509
+  },
+  {
+    "municipios": "Indiana",
+    "populacao_total": 4825,
+    "area_total_km2": 126.6,
+    "densidade_demografica_hab_km2": 38.1,
+    "codigo_unidade_geografica": 3520608
+  },
+  {
+    "municipios": "Indiaporã",
+    "populacao_total": 3903,
+    "area_total_km2": 279.6,
+    "densidade_demografica_hab_km2": 13.96,
+    "codigo_unidade_geografica": 3520707
+  },
+  {
+    "municipios": "Inúbia Paulista",
+    "populacao_total": 3630,
+    "area_total_km2": 87.4,
+    "densidade_demografica_hab_km2": 41.53,
+    "codigo_unidade_geografica": 3520806
+  },
+  {
+    "municipios": "Ipaussu",
+    "populacao_total": 13663,
+    "area_total_km2": 209.7,
+    "densidade_demografica_hab_km2": 65.17,
+    "codigo_unidade_geografica": 3520905
+  },
+  {
+    "municipios": "Iperó",
+    "populacao_total": 28300,
+    "area_total_km2": 170.0,
+    "densidade_demografica_hab_km2": 166.42,
+    "codigo_unidade_geografica": 3521002
+  },
+  {
+    "municipios": "Ipeúna",
+    "populacao_total": 6016,
+    "area_total_km2": 190.0,
+    "densidade_demografica_hab_km2": 31.66,
+    "codigo_unidade_geografica": 3521101
+  },
+  {
+    "municipios": "Ipiguá",
+    "populacao_total": 4463,
+    "area_total_km2": 136.8,
+    "densidade_demografica_hab_km2": 32.62,
+    "codigo_unidade_geografica": 3521150
+  },
+  {
+    "municipios": "Iporanga",
+    "populacao_total": 4299,
+    "area_total_km2": 1152.1,
+    "densidade_demografica_hab_km2": 3.73,
+    "codigo_unidade_geografica": 3521200
+  },
+  {
+    "municipios": "Ipuã",
+    "populacao_total": 14148,
+    "area_total_km2": 465.9,
+    "densidade_demografica_hab_km2": 30.37,
+    "codigo_unidade_geografica": 3521309
+  },
+  {
+    "municipios": "Iracemápolis",
+    "populacao_total": 20029,
+    "area_total_km2": 115.1,
+    "densidade_demografica_hab_km2": 173.99,
+    "codigo_unidade_geografica": 3521408
+  },
+  {
+    "municipios": "Irapuã",
+    "populacao_total": 7275,
+    "area_total_km2": 257.9,
+    "densidade_demografica_hab_km2": 28.21,
+    "codigo_unidade_geografica": 3521507
+  },
+  {
+    "municipios": "Irapuru",
+    "populacao_total": 7789,
+    "area_total_km2": 214.9,
+    "densidade_demografica_hab_km2": 36.24,
+    "codigo_unidade_geografica": 3521606
+  },
+  {
+    "municipios": "Itaberá",
+    "populacao_total": 17858,
+    "area_total_km2": 1082.1,
+    "densidade_demografica_hab_km2": 16.5,
+    "codigo_unidade_geografica": 3521705
+  },
+  {
+    "municipios": "Itaí",
+    "populacao_total": 24008,
+    "area_total_km2": 1111.2,
+    "densidade_demografica_hab_km2": 21.61,
+    "codigo_unidade_geografica": 3521804
+  },
+  {
+    "municipios": "Itajobi",
+    "populacao_total": 14556,
+    "area_total_km2": 502.1,
+    "densidade_demografica_hab_km2": 28.99,
+    "codigo_unidade_geografica": 3521903
+  },
+  {
+    "municipios": "Itaju",
+    "populacao_total": 3246,
+    "area_total_km2": 229.8,
+    "densidade_demografica_hab_km2": 14.12,
+    "codigo_unidade_geografica": 3522000
+  },
+  {
+    "municipios": "Itanhaém",
+    "populacao_total": 87057,
+    "area_total_km2": 599.6,
+    "densidade_demografica_hab_km2": 145.2,
+    "codigo_unidade_geografica": 3522109
+  },
+  {
+    "municipios": "Itaóca",
+    "populacao_total": 3228,
+    "area_total_km2": 183.0,
+    "densidade_demografica_hab_km2": 17.64,
+    "codigo_unidade_geografica": 3522158
+  },
+  {
+    "municipios": "Itapecerica da Serra",
+    "populacao_total": 152614,
+    "area_total_km2": 150.3,
+    "densidade_demografica_hab_km2": 1015.41,
+    "codigo_unidade_geografica": 3522208
+  },
+  {
+    "municipios": "Itapetininga",
+    "populacao_total": 144377,
+    "area_total_km2": 1790.2,
+    "densidade_demografica_hab_km2": 80.65,
+    "codigo_unidade_geografica": 3522307
+  },
+  {
+    "municipios": "Itapeva",
+    "populacao_total": 87753,
+    "area_total_km2": 1826.3,
+    "densidade_demografica_hab_km2": 48.05,
+    "codigo_unidade_geografica": 3522406
+  },
+  {
+    "municipios": "Itapevi",
+    "populacao_total": 200769,
+    "area_total_km2": 83.1,
+    "densidade_demografica_hab_km2": 2415.79,
+    "codigo_unidade_geografica": 3522505
+  },
+  {
+    "municipios": "Itapira",
+    "populacao_total": 68537,
+    "area_total_km2": 518.4,
+    "densidade_demografica_hab_km2": 132.21,
+    "codigo_unidade_geografica": 3522604
+  },
+  {
+    "municipios": "Itapirapuã Paulista",
+    "populacao_total": 3880,
+    "area_total_km2": 406.5,
+    "densidade_demografica_hab_km2": 9.55,
+    "codigo_unidade_geografica": 3522653
+  },
+  {
+    "municipios": "Itápolis",
+    "populacao_total": 40051,
+    "area_total_km2": 996.9,
+    "densidade_demografica_hab_km2": 40.18,
+    "codigo_unidade_geografica": 3522703
+  },
+  {
+    "municipios": "Itaporanga",
+    "populacao_total": 14549,
+    "area_total_km2": 507.7,
+    "densidade_demografica_hab_km2": 28.66,
+    "codigo_unidade_geografica": 3522802
+  },
+  {
+    "municipios": "Itapuí",
+    "populacao_total": 12173,
+    "area_total_km2": 140.8,
+    "densidade_demografica_hab_km2": 86.46,
+    "codigo_unidade_geografica": 3522901
+  },
+  {
+    "municipios": "Itapura",
+    "populacao_total": 4357,
+    "area_total_km2": 301.4,
+    "densidade_demografica_hab_km2": 14.46,
+    "codigo_unidade_geografica": 3523008
+  },
+  {
+    "municipios": "Itaquaquecetuba",
+    "populacao_total": 321770,
+    "area_total_km2": 83.0,
+    "densidade_demografica_hab_km2": 3877.73,
+    "codigo_unidade_geografica": 3523107
+  },
+  {
+    "municipios": "Itararé",
+    "populacao_total": 47934,
+    "area_total_km2": 1003.6,
+    "densidade_demografica_hab_km2": 47.76,
+    "codigo_unidade_geografica": 3523206
+  },
+  {
+    "municipios": "Itariri",
+    "populacao_total": 15471,
+    "area_total_km2": 273.8,
+    "densidade_demografica_hab_km2": 56.5,
+    "codigo_unidade_geografica": 3523305
+  },
+  {
+    "municipios": "Itatiba",
+    "populacao_total": 101471,
+    "area_total_km2": 322.2,
+    "densidade_demografica_hab_km2": 314.92,
+    "codigo_unidade_geografica": 3523404
+  },
+  {
+    "municipios": "Itatinga",
+    "populacao_total": 18052,
+    "area_total_km2": 979.8,
+    "densidade_demografica_hab_km2": 18.42,
+    "codigo_unidade_geografica": 3523503
+  },
+  {
+    "municipios": "Itirapina",
+    "populacao_total": 15524,
+    "area_total_km2": 564.2,
+    "densidade_demografica_hab_km2": 27.52,
+    "codigo_unidade_geografica": 3523602
+  },
+  {
+    "municipios": "Itirapuã",
+    "populacao_total": 5914,
+    "area_total_km2": 161.1,
+    "densidade_demografica_hab_km2": 36.71,
+    "codigo_unidade_geografica": 3523701
+  },
+  {
+    "municipios": "Itobi",
+    "populacao_total": 7546,
+    "area_total_km2": 139.2,
+    "densidade_demografica_hab_km2": 54.2,
+    "codigo_unidade_geografica": 3523800
+  },
+  {
+    "municipios": "Itu",
+    "populacao_total": 154147,
+    "area_total_km2": 640.8,
+    "densidade_demografica_hab_km2": 240.57,
+    "codigo_unidade_geografica": 3523909
+  },
+  {
+    "municipios": "Itupeva",
+    "populacao_total": 44859,
+    "area_total_km2": 200.7,
+    "densidade_demografica_hab_km2": 223.46,
+    "codigo_unidade_geografica": 3524006
+  },
+  {
+    "municipios": "Ituverava",
+    "populacao_total": 38695,
+    "area_total_km2": 705.2,
+    "densidade_demografica_hab_km2": 54.87,
+    "codigo_unidade_geografica": 3524105
+  },
+  {
+    "municipios": "Jaborandi",
+    "populacao_total": 6592,
+    "area_total_km2": 273.4,
+    "densidade_demografica_hab_km2": 24.11,
+    "codigo_unidade_geografica": 3524204
+  },
+  {
+    "municipios": "Jaboticabal",
+    "populacao_total": 71662,
+    "area_total_km2": 706.6,
+    "densidade_demografica_hab_km2": 101.42,
+    "codigo_unidade_geografica": 3524303
+  },
+  {
+    "municipios": "Jacareí",
+    "populacao_total": 211214,
+    "area_total_km2": 459.7,
+    "densidade_demografica_hab_km2": 459.48,
+    "codigo_unidade_geografica": 3524402
+  },
+  {
+    "municipios": "Jaci",
+    "populacao_total": 5657,
+    "area_total_km2": 145.5,
+    "densidade_demografica_hab_km2": 38.87,
+    "codigo_unidade_geografica": 3524501
+  },
+  {
+    "municipios": "Jacupiranga",
+    "populacao_total": 17208,
+    "area_total_km2": 704.1,
+    "densidade_demografica_hab_km2": 24.44,
+    "codigo_unidade_geografica": 3524600
+  },
+  {
+    "municipios": "Jaguariúna",
+    "populacao_total": 44311,
+    "area_total_km2": 141.8,
+    "densidade_demografica_hab_km2": 312.56,
+    "codigo_unidade_geografica": 3524709
+  },
+  {
+    "municipios": "Jales",
+    "populacao_total": 47012,
+    "area_total_km2": 368.5,
+    "densidade_demografica_hab_km2": 127.57,
+    "codigo_unidade_geografica": 3524808
+  },
+  {
+    "municipios": "Jambeiro",
+    "populacao_total": 5349,
+    "area_total_km2": 184.3,
+    "densidade_demografica_hab_km2": 29.03,
+    "codigo_unidade_geografica": 3524907
+  },
+  {
+    "municipios": "Jandira",
+    "populacao_total": 108344,
+    "area_total_km2": 17.7,
+    "densidade_demografica_hab_km2": 6124.59,
+    "codigo_unidade_geografica": 3525003
+  },
+  {
+    "municipios": "Jardinópolis",
+    "populacao_total": 37661,
+    "area_total_km2": 502.5,
+    "densidade_demografica_hab_km2": 74.95,
+    "codigo_unidade_geografica": 3525102
+  },
+  {
+    "municipios": "Jarinu",
+    "populacao_total": 23847,
+    "area_total_km2": 207.6,
+    "densidade_demografica_hab_km2": 114.85,
+    "codigo_unidade_geografica": 3525201
+  },
+  {
+    "municipios": "Jaú",
+    "populacao_total": 131040,
+    "area_total_km2": 685.8,
+    "densidade_demografica_hab_km2": 191.09,
+    "codigo_unidade_geografica": 3525300
+  },
+  {
+    "municipios": "Jeriquara",
+    "populacao_total": 3160,
+    "area_total_km2": 142.0,
+    "densidade_demografica_hab_km2": 22.26,
+    "codigo_unidade_geografica": 3525409
+  },
+  {
+    "municipios": "Joanópolis",
+    "populacao_total": 11768,
+    "area_total_km2": 375.1,
+    "densidade_demografica_hab_km2": 31.37,
+    "codigo_unidade_geografica": 3525508
+  },
+  {
+    "municipios": "João Ramalho",
+    "populacao_total": 4150,
+    "area_total_km2": 415.2,
+    "densidade_demografica_hab_km2": 9.99,
+    "codigo_unidade_geografica": 3525607
+  },
+  {
+    "municipios": "José Bonifácio",
+    "populacao_total": 32763,
+    "area_total_km2": 859.9,
+    "densidade_demografica_hab_km2": 38.1,
+    "codigo_unidade_geografica": 3525706
+  },
+  {
+    "municipios": "Júlio Mesquita",
+    "populacao_total": 4430,
+    "area_total_km2": 128.2,
+    "densidade_demografica_hab_km2": 34.55,
+    "codigo_unidade_geografica": 3525805
+  },
+  {
+    "municipios": "Jumirim",
+    "populacao_total": 2798,
+    "area_total_km2": 56.7,
+    "densidade_demografica_hab_km2": 49.36,
+    "codigo_unidade_geografica": 3525854
+  },
+  {
+    "municipios": "Jundiaí",
+    "populacao_total": 370126,
+    "area_total_km2": 431.5,
+    "densidade_demografica_hab_km2": 857.77,
+    "codigo_unidade_geografica": 3525904
+  },
+  {
+    "municipios": "Junqueirópolis",
+    "populacao_total": 18726,
+    "area_total_km2": 583.0,
+    "densidade_demografica_hab_km2": 32.12,
+    "codigo_unidade_geografica": 3526001
+  },
+  {
+    "municipios": "Juquiá",
+    "populacao_total": 19246,
+    "area_total_km2": 822.0,
+    "densidade_demografica_hab_km2": 23.41,
+    "codigo_unidade_geografica": 3526100
+  },
+  {
+    "municipios": "Juquitiba",
+    "populacao_total": 28737,
+    "area_total_km2": 522.1,
+    "densidade_demografica_hab_km2": 55.04,
+    "codigo_unidade_geografica": 3526209
+  },
+  {
+    "municipios": "Lagoinha",
+    "populacao_total": 4841,
+    "area_total_km2": 255.5,
+    "densidade_demografica_hab_km2": 18.95,
+    "codigo_unidade_geografica": 3526308
+  },
+  {
+    "municipios": "Laranjal Paulista",
+    "populacao_total": 25251,
+    "area_total_km2": 384.0,
+    "densidade_demografica_hab_km2": 65.75,
+    "codigo_unidade_geografica": 3526407
+  },
+  {
+    "municipios": "Lavínia",
+    "populacao_total": 8779,
+    "area_total_km2": 537.7,
+    "densidade_demografica_hab_km2": 16.33,
+    "codigo_unidade_geografica": 3526506
+  },
+  {
+    "municipios": "Lavrinhas",
+    "populacao_total": 6590,
+    "area_total_km2": 167.1,
+    "densidade_demografica_hab_km2": 39.45,
+    "codigo_unidade_geografica": 3526605
+  },
+  {
+    "municipios": "Leme",
+    "populacao_total": 91756,
+    "area_total_km2": 402.9,
+    "densidade_demografica_hab_km2": 227.75,
+    "codigo_unidade_geografica": 3526704
+  },
+  {
+    "municipios": "Lençóis Paulista",
+    "populacao_total": 61428,
+    "area_total_km2": 809.5,
+    "densidade_demografica_hab_km2": 75.88,
+    "codigo_unidade_geografica": 3526803
+  },
+  {
+    "municipios": "Limeira",
+    "populacao_total": 276022,
+    "area_total_km2": 581.0,
+    "densidade_demografica_hab_km2": 475.08,
+    "codigo_unidade_geografica": 3526902
+  },
+  {
+    "municipios": "Lindóia",
+    "populacao_total": 6712,
+    "area_total_km2": 48.8,
+    "densidade_demografica_hab_km2": 137.67,
+    "codigo_unidade_geografica": 3527009
+  },
+  {
+    "municipios": "Lins",
+    "populacao_total": 71432,
+    "area_total_km2": 570.2,
+    "densidade_demografica_hab_km2": 125.27,
+    "codigo_unidade_geografica": 3527108
+  },
+  {
+    "municipios": "Lorena",
+    "populacao_total": 82537,
+    "area_total_km2": 414.4,
+    "densidade_demografica_hab_km2": 199.19,
+    "codigo_unidade_geografica": 3527207
+  },
+  {
+    "municipios": "Lourdes",
+    "populacao_total": 2128,
+    "area_total_km2": 113.7,
+    "densidade_demografica_hab_km2": 18.71,
+    "codigo_unidade_geografica": 3527256
+  },
+  {
+    "municipios": "Louveira",
+    "populacao_total": 37125,
+    "area_total_km2": 55.1,
+    "densidade_demografica_hab_km2": 673.37,
+    "codigo_unidade_geografica": 3527306
+  },
+  {
+    "municipios": "Lucélia",
+    "populacao_total": 19882,
+    "area_total_km2": 314.8,
+    "densidade_demografica_hab_km2": 63.16,
+    "codigo_unidade_geografica": 3527405
+  },
+  {
+    "municipios": "Lucianópolis",
+    "populacao_total": 2249,
+    "area_total_km2": 189.8,
+    "densidade_demografica_hab_km2": 11.85,
+    "codigo_unidade_geografica": 3527504
+  },
+  {
+    "municipios": "Luís Antônio",
+    "populacao_total": 11286,
+    "area_total_km2": 598.4,
+    "densidade_demografica_hab_km2": 18.86,
+    "codigo_unidade_geografica": 3527603
+  },
+  {
+    "municipios": "Luiziânia",
+    "populacao_total": 5030,
+    "area_total_km2": 166.5,
+    "densidade_demografica_hab_km2": 30.2,
+    "codigo_unidade_geografica": 3527702
+  },
+  {
+    "municipios": "Lupércio",
+    "populacao_total": 4353,
+    "area_total_km2": 154.5,
+    "densidade_demografica_hab_km2": 28.18,
+    "codigo_unidade_geografica": 3527801
+  },
+  {
+    "municipios": "Lutécia",
+    "populacao_total": 2714,
+    "area_total_km2": 474.9,
+    "densidade_demografica_hab_km2": 5.71,
+    "codigo_unidade_geografica": 3527900
+  },
+  {
+    "municipios": "Macatuba",
+    "populacao_total": 16259,
+    "area_total_km2": 225.2,
+    "densidade_demografica_hab_km2": 72.19,
+    "codigo_unidade_geografica": 3528007
+  },
+  {
+    "municipios": "Macaubal",
+    "populacao_total": 7663,
+    "area_total_km2": 248.1,
+    "densidade_demografica_hab_km2": 30.88,
+    "codigo_unidade_geografica": 3528106
+  },
+  {
+    "municipios": "Macedônia",
+    "populacao_total": 3664,
+    "area_total_km2": 327.7,
+    "densidade_demografica_hab_km2": 11.18,
+    "codigo_unidade_geografica": 3528205
+  },
+  {
+    "municipios": "Magda",
+    "populacao_total": 3200,
+    "area_total_km2": 311.7,
+    "densidade_demografica_hab_km2": 10.27,
+    "codigo_unidade_geografica": 3528304
+  },
+  {
+    "municipios": "Mairinque",
+    "populacao_total": 43223,
+    "area_total_km2": 209.6,
+    "densidade_demografica_hab_km2": 206.18,
+    "codigo_unidade_geografica": 3528403
+  },
+  {
+    "municipios": "Mairiporã",
+    "populacao_total": 80956,
+    "area_total_km2": 320.9,
+    "densidade_demografica_hab_km2": 252.25,
+    "codigo_unidade_geografica": 3528502
+  },
+  {
+    "municipios": "Manduri",
+    "populacao_total": 8992,
+    "area_total_km2": 229.1,
+    "densidade_demografica_hab_km2": 39.26,
+    "codigo_unidade_geografica": 3528601
+  },
+  {
+    "municipios": "Marabá Paulista",
+    "populacao_total": 4812,
+    "area_total_km2": 917.7,
+    "densidade_demografica_hab_km2": 5.24,
+    "codigo_unidade_geografica": 3528700
+  },
+  {
+    "municipios": "Maracaí",
+    "populacao_total": 13332,
+    "area_total_km2": 533.9,
+    "densidade_demografica_hab_km2": 24.97,
+    "codigo_unidade_geografica": 3528809
+  },
+  {
+    "municipios": "Marapoama",
+    "populacao_total": 2633,
+    "area_total_km2": 111.3,
+    "densidade_demografica_hab_km2": 23.66,
+    "codigo_unidade_geografica": 3528858
+  },
+  {
+    "municipios": "Mariápolis",
+    "populacao_total": 3916,
+    "area_total_km2": 185.9,
+    "densidade_demografica_hab_km2": 21.07,
+    "codigo_unidade_geografica": 3528908
+  },
+  {
+    "municipios": "Marília",
+    "populacao_total": 216745,
+    "area_total_km2": 1170.3,
+    "densidade_demografica_hab_km2": 185.21,
+    "codigo_unidade_geografica": 3529005
+  },
+  {
+    "municipios": "Marinópolis",
+    "populacao_total": 2113,
+    "area_total_km2": 77.8,
+    "densidade_demografica_hab_km2": 27.15,
+    "codigo_unidade_geografica": 3529104
+  },
+  {
+    "municipios": "Martinópolis",
+    "populacao_total": 24219,
+    "area_total_km2": 1252.7,
+    "densidade_demografica_hab_km2": 19.33,
+    "codigo_unidade_geografica": 3529203
+  },
+  {
+    "municipios": "Matão",
+    "populacao_total": 76786,
+    "area_total_km2": 524.9,
+    "densidade_demografica_hab_km2": 146.3,
+    "codigo_unidade_geografica": 3529302
+  },
+  {
+    "municipios": "Mauá",
+    "populacao_total": 417064,
+    "area_total_km2": 61.3,
+    "densidade_demografica_hab_km2": 6803.54,
+    "codigo_unidade_geografica": 3529401
+  },
+  {
+    "municipios": "Mendonça",
+    "populacao_total": 4640,
+    "area_total_km2": 195.0,
+    "densidade_demografica_hab_km2": 23.79,
+    "codigo_unidade_geografica": 3529500
+  },
+  {
+    "municipios": "Meridiano",
+    "populacao_total": 3855,
+    "area_total_km2": 229.2,
+    "densidade_demografica_hab_km2": 16.82,
+    "codigo_unidade_geografica": 3529609
+  },
+  {
+    "municipios": "Mesópolis",
+    "populacao_total": 1886,
+    "area_total_km2": 148.9,
+    "densidade_demografica_hab_km2": 12.67,
+    "codigo_unidade_geografica": 3529658
+  },
+  {
+    "municipios": "Miguelópolis",
+    "populacao_total": 20451,
+    "area_total_km2": 822.0,
+    "densidade_demografica_hab_km2": 24.88,
+    "codigo_unidade_geografica": 3529708
+  },
+  {
+    "municipios": "Mineiros do Tietê",
+    "populacao_total": 12038,
+    "area_total_km2": 213.2,
+    "densidade_demografica_hab_km2": 56.45,
+    "codigo_unidade_geografica": 3529807
+  },
+  {
+    "municipios": "Mira Estrela",
+    "populacao_total": 2820,
+    "area_total_km2": 216.8,
+    "densidade_demografica_hab_km2": 13.01,
+    "codigo_unidade_geografica": 3530003
+  },
+  {
+    "municipios": "Miracatu",
+    "populacao_total": 20592,
+    "area_total_km2": 1001.5,
+    "densidade_demografica_hab_km2": 20.56,
+    "codigo_unidade_geografica": 3529906
+  },
+  {
+    "municipios": "Mirandópolis",
+    "populacao_total": 27483,
+    "area_total_km2": 918.8,
+    "densidade_demografica_hab_km2": 29.91,
+    "codigo_unidade_geografica": 3530102
+  },
+  {
+    "municipios": "Mirante do Paranapanema",
+    "populacao_total": 17059,
+    "area_total_km2": 1239.1,
+    "densidade_demografica_hab_km2": 13.77,
+    "codigo_unidade_geografica": 3530201
+  },
+  {
+    "municipios": "Mirassol",
+    "populacao_total": 53792,
+    "area_total_km2": 243.2,
+    "densidade_demografica_hab_km2": 221.22,
+    "codigo_unidade_geografica": 3530300
+  },
+  {
+    "municipios": "Mirassolândia",
+    "populacao_total": 4295,
+    "area_total_km2": 166.2,
+    "densidade_demografica_hab_km2": 25.85,
+    "codigo_unidade_geografica": 3530409
+  },
+  {
+    "municipios": "Mococa",
+    "populacao_total": 66290,
+    "area_total_km2": 854.9,
+    "densidade_demografica_hab_km2": 77.55,
+    "codigo_unidade_geografica": 3530508
+  },
+  {
+    "municipios": "Mogi das Cruzes",
+    "populacao_total": 387779,
+    "area_total_km2": 713.3,
+    "densidade_demografica_hab_km2": 543.65,
+    "codigo_unidade_geografica": 3530607
+  },
+  {
+    "municipios": "Mogi Guaçu",
+    "populacao_total": 137245,
+    "area_total_km2": 812.2,
+    "densidade_demografica_hab_km2": 168.98,
+    "codigo_unidade_geografica": 3530706
+  },
+  {
+    "municipios": "Moji Mirim",
+    "populacao_total": 86505,
+    "area_total_km2": 497.8,
+    "densidade_demografica_hab_km2": 173.78,
+    "codigo_unidade_geografica": 3530805
+  },
+  {
+    "municipios": "Mombuca",
+    "populacao_total": 3266,
+    "area_total_km2": 133.7,
+    "densidade_demografica_hab_km2": 24.43,
+    "codigo_unidade_geografica": 3530904
+  },
+  {
+    "municipios": "Monções",
+    "populacao_total": 2132,
+    "area_total_km2": 104.2,
+    "densidade_demografica_hab_km2": 20.45,
+    "codigo_unidade_geografica": 3531001
+  },
+  {
+    "municipios": "Mongaguá",
+    "populacao_total": 46293,
+    "area_total_km2": 142.1,
+    "densidade_demografica_hab_km2": 325.72,
+    "codigo_unidade_geografica": 3531100
+  },
+  {
+    "municipios": "Monte Alegre do Sul",
+    "populacao_total": 7152,
+    "area_total_km2": 110.3,
+    "densidade_demografica_hab_km2": 64.84,
+    "codigo_unidade_geografica": 3531209
+  },
+  {
+    "municipios": "Monte Alto",
+    "populacao_total": 46642,
+    "area_total_km2": 346.5,
+    "densidade_demografica_hab_km2": 134.61,
+    "codigo_unidade_geografica": 3531308
+  },
+  {
+    "municipios": "Monte Aprazível",
+    "populacao_total": 21746,
+    "area_total_km2": 496.9,
+    "densidade_demografica_hab_km2": 43.76,
+    "codigo_unidade_geografica": 3531407
+  },
+  {
+    "municipios": "Monte Azul Paulista",
+    "populacao_total": 18931,
+    "area_total_km2": 263.4,
+    "densidade_demografica_hab_km2": 71.86,
+    "codigo_unidade_geografica": 3531506
+  },
+  {
+    "municipios": "Monte Castelo",
+    "populacao_total": 4063,
+    "area_total_km2": 232.6,
+    "densidade_demografica_hab_km2": 17.47,
+    "codigo_unidade_geografica": 3531605
+  },
+  {
+    "municipios": "Monte Mor",
+    "populacao_total": 48949,
+    "area_total_km2": 240.5,
+    "densidade_demografica_hab_km2": 203.55,
+    "codigo_unidade_geografica": 3531803
+  },
+  {
+    "municipios": "Monteiro Lobato",
+    "populacao_total": 4120,
+    "area_total_km2": 333.3,
+    "densidade_demografica_hab_km2": 12.36,
+    "codigo_unidade_geografica": 3531704
+  },
+  {
+    "municipios": "Morro Agudo",
+    "populacao_total": 29116,
+    "area_total_km2": 1388.2,
+    "densidade_demografica_hab_km2": 20.97,
+    "codigo_unidade_geografica": 3531902
+  },
+  {
+    "municipios": "Morungaba",
+    "populacao_total": 11769,
+    "area_total_km2": 146.9,
+    "densidade_demografica_hab_km2": 80.14,
+    "codigo_unidade_geografica": 3532009
+  },
+  {
+    "municipios": "Motuca",
+    "populacao_total": 4290,
+    "area_total_km2": 228.7,
+    "densidade_demografica_hab_km2": 18.76,
+    "codigo_unidade_geografica": 3532058
+  },
+  {
+    "municipios": "Murutinga do Sul",
+    "populacao_total": 4186,
+    "area_total_km2": 250.8,
+    "densidade_demografica_hab_km2": 16.69,
+    "codigo_unidade_geografica": 3532108
+  },
+  {
+    "municipios": "Nantes",
+    "populacao_total": 2707,
+    "area_total_km2": 286.2,
+    "densidade_demografica_hab_km2": 9.46,
+    "codigo_unidade_geografica": 3532157
+  },
+  {
+    "municipios": "Narandiba",
+    "populacao_total": 4288,
+    "area_total_km2": 358.0,
+    "densidade_demografica_hab_km2": 11.98,
+    "codigo_unidade_geografica": 3532207
+  },
+  {
+    "municipios": "Natividade da Serra",
+    "populacao_total": 6678,
+    "area_total_km2": 833.4,
+    "densidade_demografica_hab_km2": 8.01,
+    "codigo_unidade_geografica": 3532306
+  },
+  {
+    "municipios": "Nazaré Paulista",
+    "populacao_total": 16414,
+    "area_total_km2": 325.9,
+    "densidade_demografica_hab_km2": 50.36,
+    "codigo_unidade_geografica": 3532405
+  },
+  {
+    "municipios": "Neves Paulista",
+    "populacao_total": 8772,
+    "area_total_km2": 218.3,
+    "densidade_demografica_hab_km2": 40.18,
+    "codigo_unidade_geografica": 3532504
+  },
+  {
+    "municipios": "Nhandeara",
+    "populacao_total": 10725,
+    "area_total_km2": 435.8,
+    "densidade_demografica_hab_km2": 24.61,
+    "codigo_unidade_geografica": 3532603
+  },
+  {
+    "municipios": "Nipoã",
+    "populacao_total": 4274,
+    "area_total_km2": 137.8,
+    "densidade_demografica_hab_km2": 31.01,
+    "codigo_unidade_geografica": 3532702
+  },
+  {
+    "municipios": "Nova Aliança",
+    "populacao_total": 5891,
+    "area_total_km2": 217.3,
+    "densidade_demografica_hab_km2": 27.11,
+    "codigo_unidade_geografica": 3532801
+  },
+  {
+    "municipios": "Nova Campina",
+    "populacao_total": 8515,
+    "area_total_km2": 385.4,
+    "densidade_demografica_hab_km2": 22.1,
+    "codigo_unidade_geografica": 3532827
+  },
+  {
+    "municipios": "Nova Canaã Paulista",
+    "populacao_total": 2114,
+    "area_total_km2": 124.4,
+    "densidade_demografica_hab_km2": 16.99,
+    "codigo_unidade_geografica": 3532843
+  },
+  {
+    "municipios": "Nova Castilho",
+    "populacao_total": 1125,
+    "area_total_km2": 183.2,
+    "densidade_demografica_hab_km2": 6.14,
+    "codigo_unidade_geografica": 3532868
+  },
+  {
+    "municipios": "Nova Europa",
+    "populacao_total": 9300,
+    "area_total_km2": 160.4,
+    "densidade_demografica_hab_km2": 58.0,
+    "codigo_unidade_geografica": 3532900
+  },
+  {
+    "municipios": "Nova Granada",
+    "populacao_total": 19180,
+    "area_total_km2": 531.9,
+    "densidade_demografica_hab_km2": 36.06,
+    "codigo_unidade_geografica": 3533007
+  },
+  {
+    "municipios": "Nova Guataporanga",
+    "populacao_total": 2177,
+    "area_total_km2": 34.1,
+    "densidade_demografica_hab_km2": 63.81,
+    "codigo_unidade_geografica": 3533106
+  },
+  {
+    "municipios": "Nova Independência",
+    "populacao_total": 3068,
+    "area_total_km2": 265.8,
+    "densidade_demografica_hab_km2": 11.54,
+    "codigo_unidade_geografica": 3533205
+  },
+  {
+    "municipios": "Nova Luzitânia",
+    "populacao_total": 3441,
+    "area_total_km2": 74.1,
+    "densidade_demografica_hab_km2": 46.46,
+    "codigo_unidade_geografica": 3533304
+  },
+  {
+    "municipios": "Nova Odessa",
+    "populacao_total": 51242,
+    "area_total_km2": 73.8,
+    "densidade_demografica_hab_km2": 694.34,
+    "codigo_unidade_geografica": 3533403
+  },
+  {
+    "municipios": "Novais",
+    "populacao_total": 4592,
+    "area_total_km2": 117.8,
+    "densidade_demografica_hab_km2": 38.99,
+    "codigo_unidade_geografica": 3533254
+  },
+  {
+    "municipios": "Novo Horizonte",
+    "populacao_total": 36593,
+    "area_total_km2": 931.7,
+    "densidade_demografica_hab_km2": 39.28,
+    "codigo_unidade_geografica": 3533502
+  },
+  {
+    "municipios": "Nuporanga",
+    "populacao_total": 6817,
+    "area_total_km2": 348.3,
+    "densidade_demografica_hab_km2": 19.57,
+    "codigo_unidade_geografica": 3533601
+  },
+  {
+    "municipios": "Ocauçu",
+    "populacao_total": 4163,
+    "area_total_km2": 300.4,
+    "densidade_demografica_hab_km2": 13.86,
+    "codigo_unidade_geografica": 3533700
+  },
+  {
+    "municipios": "Óleo",
+    "populacao_total": 2673,
+    "area_total_km2": 198.1,
+    "densidade_demografica_hab_km2": 13.49,
+    "codigo_unidade_geografica": 3533809
+  },
+  {
+    "municipios": "Olímpia",
+    "populacao_total": 50024,
+    "area_total_km2": 802.7,
+    "densidade_demografica_hab_km2": 62.32,
+    "codigo_unidade_geografica": 3533908
+  },
+  {
+    "municipios": "Onda Verde",
+    "populacao_total": 3884,
+    "area_total_km2": 243.1,
+    "densidade_demografica_hab_km2": 15.98,
+    "codigo_unidade_geografica": 3534005
+  },
+  {
+    "municipios": "Oriente",
+    "populacao_total": 6097,
+    "area_total_km2": 218.6,
+    "densidade_demografica_hab_km2": 27.89,
+    "codigo_unidade_geografica": 3534104
+  },
+  {
+    "municipios": "Orindiúva",
+    "populacao_total": 5675,
+    "area_total_km2": 248.1,
+    "densidade_demografica_hab_km2": 22.87,
+    "codigo_unidade_geografica": 3534203
+  },
+  {
+    "municipios": "Orlândia",
+    "populacao_total": 39781,
+    "area_total_km2": 291.8,
+    "densidade_demografica_hab_km2": 136.34,
+    "codigo_unidade_geografica": 3534302
+  },
+  {
+    "municipios": "Osasco",
+    "populacao_total": 666740,
+    "area_total_km2": 64.0,
+    "densidade_demografica_hab_km2": 10411.79,
+    "codigo_unidade_geografica": 3534401
+  },
+  {
+    "municipios": "Oscar Bressane",
+    "populacao_total": 2537,
+    "area_total_km2": 221.3,
+    "densidade_demografica_hab_km2": 11.46,
+    "codigo_unidade_geografica": 3534500
+  },
+  {
+    "municipios": "Osvaldo Cruz",
+    "populacao_total": 30917,
+    "area_total_km2": 248.4,
+    "densidade_demografica_hab_km2": 124.47,
+    "codigo_unidade_geografica": 3534609
+  },
+  {
+    "municipios": "Ourinhos",
+    "populacao_total": 103035,
+    "area_total_km2": 296.3,
+    "densidade_demografica_hab_km2": 347.78,
+    "codigo_unidade_geografica": 3534708
+  },
+  {
+    "municipios": "Ouro Verde",
+    "populacao_total": 7800,
+    "area_total_km2": 267.6,
+    "densidade_demografica_hab_km2": 29.15,
+    "codigo_unidade_geografica": 3534807
+  },
+  {
+    "municipios": "Ouroeste",
+    "populacao_total": 8405,
+    "area_total_km2": 288.8,
+    "densidade_demografica_hab_km2": 29.1,
+    "codigo_unidade_geografica": 3534757
+  },
+  {
+    "municipios": "Pacaembu",
+    "populacao_total": 13226,
+    "area_total_km2": 338.5,
+    "densidade_demografica_hab_km2": 39.07,
+    "codigo_unidade_geografica": 3534906
+  },
+  {
+    "municipios": "Palestina",
+    "populacao_total": 11051,
+    "area_total_km2": 695.5,
+    "densidade_demografica_hab_km2": 15.89,
+    "codigo_unidade_geografica": 3535002
+  },
+  {
+    "municipios": "Palmares Paulista",
+    "populacao_total": 10934,
+    "area_total_km2": 82.1,
+    "densidade_demografica_hab_km2": 133.14,
+    "codigo_unidade_geografica": 3535101
+  },
+  {
+    "municipios": "Palmeira d'Oeste",
+    "populacao_total": 9584,
+    "area_total_km2": 319.2,
+    "densidade_demografica_hab_km2": 30.02,
+    "codigo_unidade_geografica": 3535200
+  },
+  {
+    "municipios": "Palmital",
+    "populacao_total": 21186,
+    "area_total_km2": 547.8,
+    "densidade_demografica_hab_km2": 38.67,
+    "codigo_unidade_geografica": 3535309
+  },
+  {
+    "municipios": "Panorama",
+    "populacao_total": 14583,
+    "area_total_km2": 356.3,
+    "densidade_demografica_hab_km2": 40.93,
+    "codigo_unidade_geografica": 3535408
+  },
+  {
+    "municipios": "Paraguaçu Paulista",
+    "populacao_total": 42278,
+    "area_total_km2": 999.9,
+    "densidade_demografica_hab_km2": 42.28,
+    "codigo_unidade_geografica": 3535507
+  },
+  {
+    "municipios": "Paraibuna",
+    "populacao_total": 17388,
+    "area_total_km2": 809.6,
+    "densidade_demografica_hab_km2": 21.48,
+    "codigo_unidade_geografica": 3535606
+  },
+  {
+    "municipios": "Paraíso",
+    "populacao_total": 5898,
+    "area_total_km2": 155.8,
+    "densidade_demografica_hab_km2": 37.85,
+    "codigo_unidade_geografica": 3535705
+  },
+  {
+    "municipios": "Paranapanema",
+    "populacao_total": 17808,
+    "area_total_km2": 1018.7,
+    "densidade_demografica_hab_km2": 17.48,
+    "codigo_unidade_geografica": 3535804
+  },
+  {
+    "municipios": "Paranapuã",
+    "populacao_total": 3815,
+    "area_total_km2": 140.5,
+    "densidade_demografica_hab_km2": 27.16,
+    "codigo_unidade_geografica": 3535903
+  },
+  {
+    "municipios": "Parapuã",
+    "populacao_total": 10844,
+    "area_total_km2": 365.7,
+    "densidade_demografica_hab_km2": 29.65,
+    "codigo_unidade_geografica": 3536000
+  },
+  {
+    "municipios": "Pardinho",
+    "populacao_total": 5582,
+    "area_total_km2": 209.9,
+    "densidade_demografica_hab_km2": 26.59,
+    "codigo_unidade_geografica": 3536109
+  },
+  {
+    "municipios": "Pariquera-Açu",
+    "populacao_total": 18446,
+    "area_total_km2": 359.3,
+    "densidade_demografica_hab_km2": 51.34,
+    "codigo_unidade_geografica": 3536208
+  },
+  {
+    "municipios": "Parisi",
+    "populacao_total": 2032,
+    "area_total_km2": 84.5,
+    "densidade_demografica_hab_km2": 24.04,
+    "codigo_unidade_geografica": 3536257
+  },
+  {
+    "municipios": "Patrocínio Paulista",
+    "populacao_total": 13000,
+    "area_total_km2": 602.8,
+    "densidade_demografica_hab_km2": 21.56,
+    "codigo_unidade_geografica": 3536307
+  },
+  {
+    "municipios": "Paulicéia",
+    "populacao_total": 6339,
+    "area_total_km2": 373.6,
+    "densidade_demografica_hab_km2": 16.97,
+    "codigo_unidade_geografica": 3536406
+  },
+  {
+    "municipios": "Paulínia",
+    "populacao_total": 82146,
+    "area_total_km2": 138.8,
+    "densidade_demografica_hab_km2": 591.72,
+    "codigo_unidade_geografica": 3536505
+  },
+  {
+    "municipios": "Paulistânia",
+    "populacao_total": 1779,
+    "area_total_km2": 256.7,
+    "densidade_demografica_hab_km2": 6.93,
+    "codigo_unidade_geografica": 3536570
+  },
+  {
+    "municipios": "Paulo de Faria",
+    "populacao_total": 8589,
+    "area_total_km2": 738.3,
+    "densidade_demografica_hab_km2": 11.63,
+    "codigo_unidade_geografica": 3536604
+  },
+  {
+    "municipios": "Pederneiras",
+    "populacao_total": 41497,
+    "area_total_km2": 729.0,
+    "densidade_demografica_hab_km2": 56.92,
+    "codigo_unidade_geografica": 3536703
+  },
+  {
+    "municipios": "Pedra Bela",
+    "populacao_total": 5780,
+    "area_total_km2": 158.6,
+    "densidade_demografica_hab_km2": 36.45,
+    "codigo_unidade_geografica": 3536802
+  },
+  {
+    "municipios": "Pedranópolis",
+    "populacao_total": 2558,
+    "area_total_km2": 260.2,
+    "densidade_demografica_hab_km2": 9.83,
+    "codigo_unidade_geografica": 3536901
+  },
+  {
+    "municipios": "Pedregulho",
+    "populacao_total": 15700,
+    "area_total_km2": 712.6,
+    "densidade_demografica_hab_km2": 22.03,
+    "codigo_unidade_geografica": 3537008
+  },
+  {
+    "municipios": "Pedreira",
+    "populacao_total": 41558,
+    "area_total_km2": 109.2,
+    "densidade_demografica_hab_km2": 380.45,
+    "codigo_unidade_geografica": 3537107
+  },
+  {
+    "municipios": "Pedrinhas Paulista",
+    "populacao_total": 2940,
+    "area_total_km2": 152.5,
+    "densidade_demografica_hab_km2": 19.28,
+    "codigo_unidade_geografica": 3537156
+  },
+  {
+    "municipios": "Pedro de Toledo",
+    "populacao_total": 10204,
+    "area_total_km2": 670.4,
+    "densidade_demografica_hab_km2": 15.22,
+    "codigo_unidade_geografica": 3537206
+  },
+  {
+    "municipios": "Penápolis",
+    "populacao_total": 58510,
+    "area_total_km2": 710.8,
+    "densidade_demografica_hab_km2": 82.31,
+    "codigo_unidade_geografica": 3537305
+  },
+  {
+    "municipios": "Pereira Barreto",
+    "populacao_total": 24962,
+    "area_total_km2": 978.9,
+    "densidade_demografica_hab_km2": 25.5,
+    "codigo_unidade_geografica": 3537404
+  },
+  {
+    "municipios": "Pereiras",
+    "populacao_total": 7454,
+    "area_total_km2": 223.3,
+    "densidade_demografica_hab_km2": 33.38,
+    "codigo_unidade_geografica": 3537503
+  },
+  {
+    "municipios": "Peruíbe",
+    "populacao_total": 59773,
+    "area_total_km2": 311.4,
+    "densidade_demografica_hab_km2": 191.95,
+    "codigo_unidade_geografica": 3537602
+  },
+  {
+    "municipios": "Piacatu",
+    "populacao_total": 5287,
+    "area_total_km2": 232.4,
+    "densidade_demografica_hab_km2": 22.75,
+    "codigo_unidade_geografica": 3537701
+  },
+  {
+    "municipios": "Piedade",
+    "populacao_total": 52143,
+    "area_total_km2": 746.9,
+    "densidade_demografica_hab_km2": 69.82,
+    "codigo_unidade_geografica": 3537800
+  },
+  {
+    "municipios": "Pilar do Sul",
+    "populacao_total": 26406,
+    "area_total_km2": 681.1,
+    "densidade_demografica_hab_km2": 38.77,
+    "codigo_unidade_geografica": 3537909
+  },
+  {
+    "municipios": "Pindamonhangaba",
+    "populacao_total": 146995,
+    "area_total_km2": 729.9,
+    "densidade_demografica_hab_km2": 201.39,
+    "codigo_unidade_geografica": 3538006
+  },
+  {
+    "municipios": "Pindorama",
+    "populacao_total": 15039,
+    "area_total_km2": 184.8,
+    "densidade_demografica_hab_km2": 81.37,
+    "codigo_unidade_geografica": 3538105
+  },
+  {
+    "municipios": "Pinhalzinho",
+    "populacao_total": 13105,
+    "area_total_km2": 154.5,
+    "densidade_demografica_hab_km2": 84.8,
+    "codigo_unidade_geografica": 3538204
+  },
+  {
+    "municipios": "Piquerobi",
+    "populacao_total": 3537,
+    "area_total_km2": 482.6,
+    "densidade_demografica_hab_km2": 7.33,
+    "codigo_unidade_geografica": 3538303
+  },
+  {
+    "municipios": "Piquete",
+    "populacao_total": 14107,
+    "area_total_km2": 176.0,
+    "densidade_demografica_hab_km2": 80.16,
+    "codigo_unidade_geografica": 3538501
+  },
+  {
+    "municipios": "Piracaia",
+    "populacao_total": 25116,
+    "area_total_km2": 385.0,
+    "densidade_demografica_hab_km2": 65.23,
+    "codigo_unidade_geografica": 3538600
+  },
+  {
+    "municipios": "Piracicaba",
+    "populacao_total": 364571,
+    "area_total_km2": 1376.9,
+    "densidade_demografica_hab_km2": 264.77,
+    "codigo_unidade_geografica": 3538709
+  },
+  {
+    "municipios": "Piraju",
+    "populacao_total": 28475,
+    "area_total_km2": 504.5,
+    "densidade_demografica_hab_km2": 56.44,
+    "codigo_unidade_geografica": 3538808
+  },
+  {
+    "municipios": "Pirajuí",
+    "populacao_total": 22704,
+    "area_total_km2": 824.2,
+    "densidade_demografica_hab_km2": 27.55,
+    "codigo_unidade_geografica": 3538907
+  },
+  {
+    "municipios": "Pirangi",
+    "populacao_total": 10623,
+    "area_total_km2": 215.5,
+    "densidade_demografica_hab_km2": 49.3,
+    "codigo_unidade_geografica": 3539004
+  },
+  {
+    "municipios": "Pirapora do Bom Jesus",
+    "populacao_total": 15733,
+    "area_total_km2": 108.8,
+    "densidade_demografica_hab_km2": 144.63,
+    "codigo_unidade_geografica": 3539103
+  },
+  {
+    "municipios": "Pirapozinho",
+    "populacao_total": 24694,
+    "area_total_km2": 479.6,
+    "densidade_demografica_hab_km2": 51.49,
+    "codigo_unidade_geografica": 3539202
+  },
+  {
+    "municipios": "Pirassununga",
+    "populacao_total": 70081,
+    "area_total_km2": 727.1,
+    "densidade_demografica_hab_km2": 96.38,
+    "codigo_unidade_geografica": 3539301
+  },
+  {
+    "municipios": "Piratininga",
+    "populacao_total": 12072,
+    "area_total_km2": 402.4,
+    "densidade_demografica_hab_km2": 30.0,
+    "codigo_unidade_geografica": 3539400
+  },
+  {
+    "municipios": "Pitangueiras",
+    "populacao_total": 35307,
+    "area_total_km2": 430.6,
+    "densidade_demografica_hab_km2": 81.99,
+    "codigo_unidade_geografica": 3539509
+  },
+  {
+    "municipios": "Planalto",
+    "populacao_total": 4463,
+    "area_total_km2": 290.1,
+    "densidade_demografica_hab_km2": 15.38,
+    "codigo_unidade_geografica": 3539608
+  },
+  {
+    "municipios": "Platina",
+    "populacao_total": 3192,
+    "area_total_km2": 326.7,
+    "densidade_demografica_hab_km2": 9.77,
+    "codigo_unidade_geografica": 3539707
+  },
+  {
+    "municipios": "Poá",
+    "populacao_total": 106013,
+    "area_total_km2": 17.1,
+    "densidade_demografica_hab_km2": 6211.94,
+    "codigo_unidade_geografica": 3539806
+  },
+  {
+    "municipios": "Poloni",
+    "populacao_total": 5395,
+    "area_total_km2": 133.5,
+    "densidade_demografica_hab_km2": 40.4,
+    "codigo_unidade_geografica": 3539905
+  },
+  {
+    "municipios": "Pompéia",
+    "populacao_total": 19964,
+    "area_total_km2": 784.1,
+    "densidade_demografica_hab_km2": 25.46,
+    "codigo_unidade_geografica": 3540002
+  },
+  {
+    "municipios": "Pongaí",
+    "populacao_total": 3481,
+    "area_total_km2": 183.3,
+    "densidade_demografica_hab_km2": 18.99,
+    "codigo_unidade_geografica": 3540101
+  },
+  {
+    "municipios": "Pontal",
+    "populacao_total": 40244,
+    "area_total_km2": 356.3,
+    "densidade_demografica_hab_km2": 112.94,
+    "codigo_unidade_geografica": 3540200
+  },
+  {
+    "municipios": "Pontalinda",
+    "populacao_total": 4074,
+    "area_total_km2": 210.2,
+    "densidade_demografica_hab_km2": 19.38,
+    "codigo_unidade_geografica": 3540259
+  },
+  {
+    "municipios": "Pontes Gestal",
+    "populacao_total": 2518,
+    "area_total_km2": 217.4,
+    "densidade_demografica_hab_km2": 11.58,
+    "codigo_unidade_geografica": 3540309
+  },
+  {
+    "municipios": "Populina",
+    "populacao_total": 4223,
+    "area_total_km2": 315.9,
+    "densidade_demografica_hab_km2": 13.37,
+    "codigo_unidade_geografica": 3540408
+  },
+  {
+    "municipios": "Porangaba",
+    "populacao_total": 8326,
+    "area_total_km2": 265.7,
+    "densidade_demografica_hab_km2": 31.34,
+    "codigo_unidade_geografica": 3540507
+  },
+  {
+    "municipios": "Porto Feliz",
+    "populacao_total": 48893,
+    "area_total_km2": 557.1,
+    "densidade_demografica_hab_km2": 87.76,
+    "codigo_unidade_geografica": 3540606
+  },
+  {
+    "municipios": "Porto Ferreira",
+    "populacao_total": 51400,
+    "area_total_km2": 244.9,
+    "densidade_demografica_hab_km2": 209.88,
+    "codigo_unidade_geografica": 3540705
+  },
+  {
+    "municipios": "Potim",
+    "populacao_total": 19397,
+    "area_total_km2": 44.5,
+    "densidade_demografica_hab_km2": 436.22,
+    "codigo_unidade_geografica": 3540754
+  },
+  {
+    "municipios": "Potirendaba",
+    "populacao_total": 15449,
+    "area_total_km2": 342.4,
+    "densidade_demografica_hab_km2": 45.12,
+    "codigo_unidade_geografica": 3540804
+  },
+  {
+    "municipios": "Pracinha",
+    "populacao_total": 2858,
+    "area_total_km2": 62.8,
+    "densidade_demografica_hab_km2": 45.48,
+    "codigo_unidade_geografica": 3540853
+  },
+  {
+    "municipios": "Pradópolis",
+    "populacao_total": 17377,
+    "area_total_km2": 167.5,
+    "densidade_demografica_hab_km2": 103.73,
+    "codigo_unidade_geografica": 3540903
+  },
+  {
+    "municipios": "Praia Grande",
+    "populacao_total": 262051,
+    "area_total_km2": 147.5,
+    "densidade_demografica_hab_km2": 1776.09,
+    "codigo_unidade_geografica": 3541000
+  },
+  {
+    "municipios": "Pratânia",
+    "populacao_total": 4599,
+    "area_total_km2": 175.1,
+    "densidade_demografica_hab_km2": 26.26,
+    "codigo_unidade_geografica": 3541059
+  },
+  {
+    "municipios": "Presidente Alves",
+    "populacao_total": 4123,
+    "area_total_km2": 287.2,
+    "densidade_demografica_hab_km2": 14.36,
+    "codigo_unidade_geografica": 3541109
+  },
+  {
+    "municipios": "Presidente Bernardes",
+    "populacao_total": 13570,
+    "area_total_km2": 752.1,
+    "densidade_demografica_hab_km2": 18.04,
+    "codigo_unidade_geografica": 3541208
+  },
+  {
+    "municipios": "Presidente Epitácio",
+    "populacao_total": 41318,
+    "area_total_km2": 1259.1,
+    "densidade_demografica_hab_km2": 32.82,
+    "codigo_unidade_geografica": 3541307
+  },
+  {
+    "municipios": "Presidente Prudente",
+    "populacao_total": 207610,
+    "area_total_km2": 562.8,
+    "densidade_demografica_hab_km2": 368.89,
+    "codigo_unidade_geografica": 3541406
+  },
+  {
+    "municipios": "Presidente Venceslau",
+    "populacao_total": 37910,
+    "area_total_km2": 756.7,
+    "densidade_demografica_hab_km2": 50.1,
+    "codigo_unidade_geografica": 3541505
+  },
+  {
+    "municipios": "Promissão",
+    "populacao_total": 35674,
+    "area_total_km2": 781.5,
+    "densidade_demografica_hab_km2": 45.65,
+    "codigo_unidade_geografica": 3541604
+  },
+  {
+    "municipios": "Quadra",
+    "populacao_total": 3236,
+    "area_total_km2": 205.7,
+    "densidade_demografica_hab_km2": 15.73,
+    "codigo_unidade_geografica": 3541653
+  },
+  {
+    "municipios": "Quatá",
+    "populacao_total": 12799,
+    "area_total_km2": 651.7,
+    "densidade_demografica_hab_km2": 19.64,
+    "codigo_unidade_geografica": 3541703
+  },
+  {
+    "municipios": "Queiroz",
+    "populacao_total": 2808,
+    "area_total_km2": 233.8,
+    "densidade_demografica_hab_km2": 12.01,
+    "codigo_unidade_geografica": 3541802
+  },
+  {
+    "municipios": "Queluz",
+    "populacao_total": 11309,
+    "area_total_km2": 249.8,
+    "densidade_demografica_hab_km2": 45.27,
+    "codigo_unidade_geografica": 3541901
+  },
+  {
+    "municipios": "Quintana",
+    "populacao_total": 6004,
+    "area_total_km2": 319.6,
+    "densidade_demografica_hab_km2": 18.79,
+    "codigo_unidade_geografica": 3542008
+  },
+  {
+    "municipios": "Rafard",
+    "populacao_total": 8612,
+    "area_total_km2": 121.4,
+    "densidade_demografica_hab_km2": 70.93,
+    "codigo_unidade_geografica": 3542107
+  },
+  {
+    "municipios": "Rancharia",
+    "populacao_total": 28804,
+    "area_total_km2": 1587.5,
+    "densidade_demografica_hab_km2": 18.14,
+    "codigo_unidade_geografica": 3542206
+  },
+  {
+    "municipios": "Redenção da Serra",
+    "populacao_total": 3873,
+    "area_total_km2": 309.4,
+    "densidade_demografica_hab_km2": 12.52,
+    "codigo_unidade_geografica": 3542305
+  },
+  {
+    "municipios": "Regente Feijó",
+    "populacao_total": 18494,
+    "area_total_km2": 265.1,
+    "densidade_demografica_hab_km2": 69.76,
+    "codigo_unidade_geografica": 3542404
+  },
+  {
+    "municipios": "Reginópolis",
+    "populacao_total": 7323,
+    "area_total_km2": 410.8,
+    "densidade_demografica_hab_km2": 17.83,
+    "codigo_unidade_geografica": 3542503
+  },
+  {
+    "municipios": "Registro",
+    "populacao_total": 54261,
+    "area_total_km2": 722.4,
+    "densidade_demografica_hab_km2": 75.11,
+    "codigo_unidade_geografica": 3542602
+  },
+  {
+    "municipios": "Restinga",
+    "populacao_total": 6587,
+    "area_total_km2": 245.7,
+    "densidade_demografica_hab_km2": 26.8,
+    "codigo_unidade_geografica": 3542701
+  },
+  {
+    "municipios": "Ribeira",
+    "populacao_total": 3358,
+    "area_total_km2": 335.7,
+    "densidade_demografica_hab_km2": 10.0,
+    "codigo_unidade_geografica": 3542800
+  },
+  {
+    "municipios": "Ribeirão Bonito",
+    "populacao_total": 12135,
+    "area_total_km2": 471.6,
+    "densidade_demografica_hab_km2": 25.73,
+    "codigo_unidade_geografica": 3542909
+  },
+  {
+    "municipios": "Ribeirão Branco",
+    "populacao_total": 18269,
+    "area_total_km2": 697.5,
+    "densidade_demografica_hab_km2": 26.19,
+    "codigo_unidade_geografica": 3543006
+  },
+  {
+    "municipios": "Ribeirão Corrente",
+    "populacao_total": 4273,
+    "area_total_km2": 148.3,
+    "densidade_demografica_hab_km2": 28.81,
+    "codigo_unidade_geografica": 3543105
+  },
+  {
+    "municipios": "Ribeirão do Sul",
+    "populacao_total": 4446,
+    "area_total_km2": 203.7,
+    "densidade_demografica_hab_km2": 21.83,
+    "codigo_unidade_geografica": 3543204
+  },
+  {
+    "municipios": "Ribeirão dos Índios",
+    "populacao_total": 2187,
+    "area_total_km2": 196.3,
+    "densidade_demografica_hab_km2": 11.14,
+    "codigo_unidade_geografica": 3543238
+  },
+  {
+    "municipios": "Ribeirão Grande",
+    "populacao_total": 7422,
+    "area_total_km2": 333.4,
+    "densidade_demografica_hab_km2": 22.26,
+    "codigo_unidade_geografica": 3543253
+  },
+  {
+    "municipios": "Ribeirão Pires",
+    "populacao_total": 113068,
+    "area_total_km2": 98.8,
+    "densidade_demografica_hab_km2": 1144.99,
+    "codigo_unidade_geografica": 3543303
+  },
+  {
+    "municipios": "Ribeirão Preto",
+    "populacao_total": 604682,
+    "area_total_km2": 651.3,
+    "densidade_demografica_hab_km2": 928.46,
+    "codigo_unidade_geografica": 3543402
+  },
+  {
+    "municipios": "Rifaina",
+    "populacao_total": 3436,
+    "area_total_km2": 162.5,
+    "densidade_demografica_hab_km2": 21.14,
+    "codigo_unidade_geografica": 3543600
+  },
+  {
+    "municipios": "Rincão",
+    "populacao_total": 10414,
+    "area_total_km2": 315.9,
+    "densidade_demografica_hab_km2": 32.97,
+    "codigo_unidade_geografica": 3543709
+  },
+  {
+    "municipios": "Rinópolis",
+    "populacao_total": 9935,
+    "area_total_km2": 358.3,
+    "densidade_demografica_hab_km2": 27.73,
+    "codigo_unidade_geografica": 3543808
+  },
+  {
+    "municipios": "Rio Claro",
+    "populacao_total": 186253,
+    "area_total_km2": 498.7,
+    "densidade_demografica_hab_km2": 373.47,
+    "codigo_unidade_geografica": 3543907
+  },
+  {
+    "municipios": "Rio das Pedras",
+    "populacao_total": 29501,
+    "area_total_km2": 226.7,
+    "densidade_demografica_hab_km2": 130.16,
+    "codigo_unidade_geografica": 3544004
+  },
+  {
+    "municipios": "Rio Grande da Serra",
+    "populacao_total": 43974,
+    "area_total_km2": 36.9,
+    "densidade_demografica_hab_km2": 1192.45,
+    "codigo_unidade_geografica": 3544103
+  },
+  {
+    "municipios": "Riolândia",
+    "populacao_total": 10575,
+    "area_total_km2": 633.4,
+    "densidade_demografica_hab_km2": 16.7,
+    "codigo_unidade_geografica": 3544202
+  },
+  {
+    "municipios": "Riversul",
+    "populacao_total": 6163,
+    "area_total_km2": 386.2,
+    "densidade_demografica_hab_km2": 15.96,
+    "codigo_unidade_geografica": 3543501
+  },
+  {
+    "municipios": "Rosana",
+    "populacao_total": 19691,
+    "area_total_km2": 742.9,
+    "densidade_demografica_hab_km2": 26.51,
+    "codigo_unidade_geografica": 3544251
+  },
+  {
+    "municipios": "Roseira",
+    "populacao_total": 9599,
+    "area_total_km2": 130.7,
+    "densidade_demografica_hab_km2": 73.47,
+    "codigo_unidade_geografica": 3544301
+  },
+  {
+    "municipios": "Rubiácea",
+    "populacao_total": 2729,
+    "area_total_km2": 236.9,
+    "densidade_demografica_hab_km2": 11.52,
+    "codigo_unidade_geografica": 3544400
+  },
+  {
+    "municipios": "Rubinéia",
+    "populacao_total": 2862,
+    "area_total_km2": 236.9,
+    "densidade_demografica_hab_km2": 12.08,
+    "codigo_unidade_geografica": 3544509
+  },
+  {
+    "municipios": "Sabino",
+    "populacao_total": 5217,
+    "area_total_km2": 310.9,
+    "densidade_demografica_hab_km2": 16.78,
+    "codigo_unidade_geografica": 3544608
+  },
+  {
+    "municipios": "Sagres",
+    "populacao_total": 2395,
+    "area_total_km2": 147.8,
+    "densidade_demografica_hab_km2": 16.2,
+    "codigo_unidade_geografica": 3544707
+  },
+  {
+    "municipios": "Sales",
+    "populacao_total": 5451,
+    "area_total_km2": 308.5,
+    "densidade_demografica_hab_km2": 17.67,
+    "codigo_unidade_geografica": 3544806
+  },
+  {
+    "municipios": "Sales Oliveira",
+    "populacao_total": 10568,
+    "area_total_km2": 305.6,
+    "densidade_demografica_hab_km2": 34.58,
+    "codigo_unidade_geografica": 3544905
+  },
+  {
+    "municipios": "Salesópolis",
+    "populacao_total": 15635,
+    "area_total_km2": 425.0,
+    "densidade_demografica_hab_km2": 36.79,
+    "codigo_unidade_geografica": 3545001
+  },
+  {
+    "municipios": "Salmourão",
+    "populacao_total": 4818,
+    "area_total_km2": 172.3,
+    "densidade_demografica_hab_km2": 27.96,
+    "codigo_unidade_geografica": 3545100
+  },
+  {
+    "municipios": "Saltinho",
+    "populacao_total": 7059,
+    "area_total_km2": 99.7,
+    "densidade_demografica_hab_km2": 70.77,
+    "codigo_unidade_geografica": 3545159
+  },
+  {
+    "municipios": "Salto",
+    "populacao_total": 105516,
+    "area_total_km2": 133.2,
+    "densidade_demografica_hab_km2": 792.17,
+    "codigo_unidade_geografica": 3545209
+  },
+  {
+    "municipios": "Salto de Pirapora",
+    "populacao_total": 40132,
+    "area_total_km2": 280.5,
+    "densidade_demografica_hab_km2": 143.07,
+    "codigo_unidade_geografica": 3545308
+  },
+  {
+    "municipios": "Salto Grande",
+    "populacao_total": 8787,
+    "area_total_km2": 188.4,
+    "densidade_demografica_hab_km2": 46.64,
+    "codigo_unidade_geografica": 3545407
+  },
+  {
+    "municipios": "Sandovalina",
+    "populacao_total": 3699,
+    "area_total_km2": 455.1,
+    "densidade_demografica_hab_km2": 8.13,
+    "codigo_unidade_geografica": 3545506
+  },
+  {
+    "municipios": "Santa Adélia",
+    "populacao_total": 14333,
+    "area_total_km2": 330.9,
+    "densidade_demografica_hab_km2": 43.32,
+    "codigo_unidade_geografica": 3545605
+  },
+  {
+    "municipios": "Santa Albertina",
+    "populacao_total": 5723,
+    "area_total_km2": 272.8,
+    "densidade_demografica_hab_km2": 20.98,
+    "codigo_unidade_geografica": 3545704
+  },
+  {
+    "municipios": "Santa Bárbara d'Oeste",
+    "populacao_total": 180009,
+    "area_total_km2": 271.5,
+    "densidade_demografica_hab_km2": 663.08,
+    "codigo_unidade_geografica": 3545803
+  },
+  {
+    "municipios": "Santa Branca",
+    "populacao_total": 13763,
+    "area_total_km2": 275.3,
+    "densidade_demografica_hab_km2": 50.0,
+    "codigo_unidade_geografica": 3546009
+  },
+  {
+    "municipios": "Santa Clara d'Oeste",
+    "populacao_total": 2084,
+    "area_total_km2": 183.4,
+    "densidade_demografica_hab_km2": 11.36,
+    "codigo_unidade_geografica": 3546108
+  },
+  {
+    "municipios": "Santa Cruz da Conceição",
+    "populacao_total": 4002,
+    "area_total_km2": 150.1,
+    "densidade_demografica_hab_km2": 26.66,
+    "codigo_unidade_geografica": 3546207
+  },
+  {
+    "municipios": "Santa Cruz da Esperança",
+    "populacao_total": 1953,
+    "area_total_km2": 148.1,
+    "densidade_demografica_hab_km2": 13.19,
+    "codigo_unidade_geografica": 3546256
+  },
+  {
+    "municipios": "Santa Cruz das Palmeiras",
+    "populacao_total": 29932,
+    "area_total_km2": 295.3,
+    "densidade_demografica_hab_km2": 101.35,
+    "codigo_unidade_geografica": 3546306
+  },
+  {
+    "municipios": "Santa Cruz do Rio Pardo",
+    "populacao_total": 43921,
+    "area_total_km2": 1113.5,
+    "densidade_demografica_hab_km2": 39.44,
+    "codigo_unidade_geografica": 3546405
+  },
+  {
+    "municipios": "Santa Ernestina",
+    "populacao_total": 5568,
+    "area_total_km2": 134.4,
+    "densidade_demografica_hab_km2": 41.42,
+    "codigo_unidade_geografica": 3546504
+  },
+  {
+    "municipios": "Santa Fé do Sul",
+    "populacao_total": 29239,
+    "area_total_km2": 208.2,
+    "densidade_demografica_hab_km2": 140.43,
+    "codigo_unidade_geografica": 3546603
+  },
+  {
+    "municipios": "Santa Gertrudes",
+    "populacao_total": 21634,
+    "area_total_km2": 98.0,
+    "densidade_demografica_hab_km2": 220.74,
+    "codigo_unidade_geografica": 3546702
+  },
+  {
+    "municipios": "Santa Isabel",
+    "populacao_total": 50453,
+    "area_total_km2": 362.7,
+    "densidade_demografica_hab_km2": 139.09,
+    "codigo_unidade_geografica": 3546801
+  },
+  {
+    "municipios": "Santa Lúcia",
+    "populacao_total": 8248,
+    "area_total_km2": 154.0,
+    "densidade_demografica_hab_km2": 53.55,
+    "codigo_unidade_geografica": 3546900
+  },
+  {
+    "municipios": "Santa Maria da Serra",
+    "populacao_total": 5413,
+    "area_total_km2": 257.2,
+    "densidade_demografica_hab_km2": 21.05,
+    "codigo_unidade_geografica": 3547007
+  },
+  {
+    "municipios": "Santa Mercedes",
+    "populacao_total": 2831,
+    "area_total_km2": 166.9,
+    "densidade_demografica_hab_km2": 16.96,
+    "codigo_unidade_geografica": 3547106
+  },
+  {
+    "municipios": "Santa Rita do Passa Quatro",
+    "populacao_total": 26478,
+    "area_total_km2": 754.1,
+    "densidade_demografica_hab_km2": 35.11,
+    "codigo_unidade_geografica": 3547502
+  },
+  {
+    "municipios": "Santa Rita d'Oeste",
+    "populacao_total": 2543,
+    "area_total_km2": 210.1,
+    "densidade_demografica_hab_km2": 12.1,
+    "codigo_unidade_geografica": 3547403
+  },
+  {
+    "municipios": "Santa Rosa de Viterbo",
+    "populacao_total": 23862,
+    "area_total_km2": 288.6,
+    "densidade_demografica_hab_km2": 82.69,
+    "codigo_unidade_geografica": 3547601
+  },
+  {
+    "municipios": "Santa Salete",
+    "populacao_total": 1447,
+    "area_total_km2": 79.4,
+    "densidade_demografica_hab_km2": 18.23,
+    "codigo_unidade_geografica": 3547650
+  },
+  {
+    "municipios": "Santana da Ponte Pensa",
+    "populacao_total": 1641,
+    "area_total_km2": 130.3,
+    "densidade_demografica_hab_km2": 12.6,
+    "codigo_unidade_geografica": 3547205
+  },
+  {
+    "municipios": "Santana de Parnaíba",
+    "populacao_total": 108813,
+    "area_total_km2": 179.8,
+    "densidade_demografica_hab_km2": 605.17,
+    "codigo_unidade_geografica": 3547304
+  },
+  {
+    "municipios": "Santo Anastácio",
+    "populacao_total": 20475,
+    "area_total_km2": 552.5,
+    "densidade_demografica_hab_km2": 37.06,
+    "codigo_unidade_geografica": 3547700
+  },
+  {
+    "municipios": "Santo André",
+    "populacao_total": 676407,
+    "area_total_km2": 174.9,
+    "densidade_demografica_hab_km2": 3866.35,
+    "codigo_unidade_geografica": 3547809
+  },
+  {
+    "municipios": "Santo Antônio da Alegria",
+    "populacao_total": 6304,
+    "area_total_km2": 310.3,
+    "densidade_demografica_hab_km2": 20.31,
+    "codigo_unidade_geografica": 3547908
+  },
+  {
+    "municipios": "Santo Antônio de Posse",
+    "populacao_total": 20650,
+    "area_total_km2": 154.0,
+    "densidade_demografica_hab_km2": 134.09,
+    "codigo_unidade_geografica": 3548005
+  },
+  {
+    "municipios": "Santo Antônio do Aracanguá",
+    "populacao_total": 7626,
+    "area_total_km2": 1308.2,
+    "densidade_demografica_hab_km2": 5.83,
+    "codigo_unidade_geografica": 3548054
+  },
+  {
+    "municipios": "Santo Antônio do Jardim",
+    "populacao_total": 5943,
+    "area_total_km2": 110.0,
+    "densidade_demografica_hab_km2": 54.05,
+    "codigo_unidade_geografica": 3548104
+  },
+  {
+    "municipios": "Santo Antônio do Pinhal",
+    "populacao_total": 6486,
+    "area_total_km2": 133.0,
+    "densidade_demografica_hab_km2": 48.76,
+    "codigo_unidade_geografica": 3548203
+  },
+  {
+    "municipios": "Santo Expedito",
+    "populacao_total": 2803,
+    "area_total_km2": 94.4,
+    "densidade_demografica_hab_km2": 29.68,
+    "codigo_unidade_geografica": 3548302
+  },
+  {
+    "municipios": "Santópolis do Aguapeí",
+    "populacao_total": 4277,
+    "area_total_km2": 127.9,
+    "densidade_demografica_hab_km2": 33.44,
+    "codigo_unidade_geografica": 3548401
+  },
+  {
+    "municipios": "Santos",
+    "populacao_total": 419400,
+    "area_total_km2": 281.1,
+    "densidade_demografica_hab_km2": 1492.23,
+    "codigo_unidade_geografica": 3548500
+  },
+  {
+    "municipios": "São Bento do Sapucaí",
+    "populacao_total": 10468,
+    "area_total_km2": 252.6,
+    "densidade_demografica_hab_km2": 41.44,
+    "codigo_unidade_geografica": 3548609
+  },
+  {
+    "municipios": "São Bernardo do Campo",
+    "populacao_total": 765463,
+    "area_total_km2": 408.8,
+    "densidade_demografica_hab_km2": 1872.59,
+    "codigo_unidade_geografica": 3548708
+  },
+  {
+    "municipios": "São Caetano do Sul",
+    "populacao_total": 149263,
+    "area_total_km2": 15.4,
+    "densidade_demografica_hab_km2": 9708.79,
+    "codigo_unidade_geografica": 3548807
+  },
+  {
+    "municipios": "São Carlos",
+    "populacao_total": 221950,
+    "area_total_km2": 1137.3,
+    "densidade_demografica_hab_km2": 195.15,
+    "codigo_unidade_geografica": 3548906
+  },
+  {
+    "municipios": "São Francisco",
+    "populacao_total": 2793,
+    "area_total_km2": 75.6,
+    "densidade_demografica_hab_km2": 36.94,
+    "codigo_unidade_geografica": 3549003
+  },
+  {
+    "municipios": "São João da Boa Vista",
+    "populacao_total": 83639,
+    "area_total_km2": 516.4,
+    "densidade_demografica_hab_km2": 161.96,
+    "codigo_unidade_geografica": 3549102
+  },
+  {
+    "municipios": "São João das Duas Pontes",
+    "populacao_total": 2566,
+    "area_total_km2": 129.3,
+    "densidade_demografica_hab_km2": 19.84,
+    "codigo_unidade_geografica": 3549201
+  },
+  {
+    "municipios": "São João de Iracema",
+    "populacao_total": 1780,
+    "area_total_km2": 178.6,
+    "densidade_demografica_hab_km2": 9.97,
+    "codigo_unidade_geografica": 3549250
+  },
+  {
+    "municipios": "São João do Pau d'Alho",
+    "populacao_total": 2103,
+    "area_total_km2": 117.7,
+    "densidade_demografica_hab_km2": 17.86,
+    "codigo_unidade_geografica": 3549300
+  },
+  {
+    "municipios": "São Joaquim da Barra",
+    "populacao_total": 46512,
+    "area_total_km2": 410.6,
+    "densidade_demografica_hab_km2": 113.28,
+    "codigo_unidade_geografica": 3549409
+  },
+  {
+    "municipios": "São José da Bela Vista",
+    "populacao_total": 8406,
+    "area_total_km2": 277.0,
+    "densidade_demografica_hab_km2": 30.35,
+    "codigo_unidade_geografica": 3549508
+  },
+  {
+    "municipios": "São José do Barreiro",
+    "populacao_total": 4077,
+    "area_total_km2": 571.0,
+    "densidade_demografica_hab_km2": 7.14,
+    "codigo_unidade_geografica": 3549607
+  },
+  {
+    "municipios": "São José do Rio Pardo",
+    "populacao_total": 51900,
+    "area_total_km2": 419.2,
+    "densidade_demografica_hab_km2": 123.81,
+    "codigo_unidade_geografica": 3549706
+  },
+  {
+    "municipios": "São José do Rio Preto",
+    "populacao_total": 408258,
+    "area_total_km2": 431.3,
+    "densidade_demografica_hab_km2": 946.53,
+    "codigo_unidade_geografica": 3549805
+  },
+  {
+    "municipios": "São José dos Campos",
+    "populacao_total": 629921,
+    "area_total_km2": 1099.8,
+    "densidade_demografica_hab_km2": 572.77,
+    "codigo_unidade_geografica": 3549904
+  },
+  {
+    "municipios": "São Lourenço da Serra",
+    "populacao_total": 13973,
+    "area_total_km2": 186.4,
+    "densidade_demografica_hab_km2": 74.96,
+    "codigo_unidade_geografica": 3549953
+  },
+  {
+    "municipios": "São Luís do Paraitinga",
+    "populacao_total": 10397,
+    "area_total_km2": 617.3,
+    "densidade_demografica_hab_km2": 16.84,
+    "codigo_unidade_geografica": 3550001
+  },
+  {
+    "municipios": "São Manuel",
+    "populacao_total": 38342,
+    "area_total_km2": 650.8,
+    "densidade_demografica_hab_km2": 58.92,
+    "codigo_unidade_geografica": 3550100
+  },
+  {
+    "municipios": "São Miguel Arcanjo",
+    "populacao_total": 31450,
+    "area_total_km2": 930.3,
+    "densidade_demografica_hab_km2": 33.8,
+    "codigo_unidade_geografica": 3550209
+  },
+  {
+    "municipios": "São Paulo",
+    "populacao_total": 11253503,
+    "area_total_km2": 1523.3,
+    "densidade_demografica_hab_km2": 7387.69,
+    "codigo_unidade_geografica": 3550308
+  },
+  {
+    "municipios": "São Pedro",
+    "populacao_total": 31662,
+    "area_total_km2": 611.0,
+    "densidade_demografica_hab_km2": 51.82,
+    "codigo_unidade_geografica": 3550407
+  },
+  {
+    "municipios": "São Pedro do Turvo",
+    "populacao_total": 7198,
+    "area_total_km2": 731.8,
+    "densidade_demografica_hab_km2": 9.84,
+    "codigo_unidade_geografica": 3550506
+  },
+  {
+    "municipios": "São Roque",
+    "populacao_total": 78821,
+    "area_total_km2": 306.3,
+    "densidade_demografica_hab_km2": 257.3,
+    "codigo_unidade_geografica": 3550605
+  },
+  {
+    "municipios": "São Sebastião",
+    "populacao_total": 73942,
+    "area_total_km2": 400.4,
+    "densidade_demografica_hab_km2": 184.68,
+    "codigo_unidade_geografica": 3550704
+  },
+  {
+    "municipios": "São Sebastião da Grama",
+    "populacao_total": 12099,
+    "area_total_km2": 252.4,
+    "densidade_demografica_hab_km2": 47.94,
+    "codigo_unidade_geografica": 3550803
+  },
+  {
+    "municipios": "São Simão",
+    "populacao_total": 14346,
+    "area_total_km2": 617.2,
+    "densidade_demografica_hab_km2": 23.24,
+    "codigo_unidade_geografica": 3550902
+  },
+  {
+    "municipios": "São Vicente",
+    "populacao_total": 332445,
+    "area_total_km2": 148.9,
+    "densidade_demografica_hab_km2": 2232.28,
+    "codigo_unidade_geografica": 3551009
+  },
+  {
+    "municipios": "Sarapuí",
+    "populacao_total": 9027,
+    "area_total_km2": 352.7,
+    "densidade_demografica_hab_km2": 25.6,
+    "codigo_unidade_geografica": 3551108
+  },
+  {
+    "municipios": "Sarutaiá",
+    "populacao_total": 3622,
+    "area_total_km2": 141.6,
+    "densidade_demografica_hab_km2": 25.58,
+    "codigo_unidade_geografica": 3551207
+  },
+  {
+    "municipios": "Sebastianópolis do Sul",
+    "populacao_total": 3031,
+    "area_total_km2": 162.9,
+    "densidade_demografica_hab_km2": 18.61,
+    "codigo_unidade_geografica": 3551306
+  },
+  {
+    "municipios": "Serra Azul",
+    "populacao_total": 11256,
+    "area_total_km2": 283.0,
+    "densidade_demografica_hab_km2": 39.77,
+    "codigo_unidade_geografica": 3551405
+  },
+  {
+    "municipios": "Serra Negra",
+    "populacao_total": 26387,
+    "area_total_km2": 203.7,
+    "densidade_demografica_hab_km2": 129.52,
+    "codigo_unidade_geografica": 3551603
+  },
+  {
+    "municipios": "Serrana",
+    "populacao_total": 38878,
+    "area_total_km2": 125.5,
+    "densidade_demografica_hab_km2": 309.68,
+    "codigo_unidade_geografica": 3551504
+  },
+  {
+    "municipios": "Sertãozinho",
+    "populacao_total": 110074,
+    "area_total_km2": 402.6,
+    "densidade_demografica_hab_km2": 273.43,
+    "codigo_unidade_geografica": 3551702
+  },
+  {
+    "municipios": "Sete Barras",
+    "populacao_total": 13005,
+    "area_total_km2": 1053.5,
+    "densidade_demografica_hab_km2": 12.34,
+    "codigo_unidade_geografica": 3551801
+  },
+  {
+    "municipios": "Severínia",
+    "populacao_total": 15501,
+    "area_total_km2": 140.4,
+    "densidade_demografica_hab_km2": 110.38,
+    "codigo_unidade_geografica": 3551900
+  },
+  {
+    "municipios": "Silveiras",
+    "populacao_total": 5792,
+    "area_total_km2": 414.8,
+    "densidade_demografica_hab_km2": 13.96,
+    "codigo_unidade_geografica": 3552007
+  },
+  {
+    "municipios": "Socorro",
+    "populacao_total": 36686,
+    "area_total_km2": 449.0,
+    "densidade_demografica_hab_km2": 81.7,
+    "codigo_unidade_geografica": 3552106
+  },
+  {
+    "municipios": "Sorocaba",
+    "populacao_total": 586625,
+    "area_total_km2": 449.0,
+    "densidade_demografica_hab_km2": 1306.55,
+    "codigo_unidade_geografica": 3552205
+  },
+  {
+    "municipios": "Sud Mennucci",
+    "populacao_total": 7435,
+    "area_total_km2": 591.3,
+    "densidade_demografica_hab_km2": 12.57,
+    "codigo_unidade_geografica": 3552304
+  },
+  {
+    "municipios": "Sumaré",
+    "populacao_total": 241311,
+    "area_total_km2": 153.0,
+    "densidade_demografica_hab_km2": 1577.14,
+    "codigo_unidade_geografica": 3552403
+  },
+  {
+    "municipios": "Suzanápolis",
+    "populacao_total": 3383,
+    "area_total_km2": 328.5,
+    "densidade_demografica_hab_km2": 10.3,
+    "codigo_unidade_geografica": 3552551
+  },
+  {
+    "municipios": "Suzano",
+    "populacao_total": 262480,
+    "area_total_km2": 206.6,
+    "densidade_demografica_hab_km2": 1270.37,
+    "codigo_unidade_geografica": 3552502
+  },
+  {
+    "municipios": "Tabapuã",
+    "populacao_total": 11363,
+    "area_total_km2": 345.6,
+    "densidade_demografica_hab_km2": 32.88,
+    "codigo_unidade_geografica": 3552601
+  },
+  {
+    "municipios": "Tabatinga",
+    "populacao_total": 14686,
+    "area_total_km2": 369.6,
+    "densidade_demografica_hab_km2": 39.74,
+    "codigo_unidade_geografica": 3552700
+  },
+  {
+    "municipios": "Taboão da Serra",
+    "populacao_total": 244528,
+    "area_total_km2": 20.3,
+    "densidade_demografica_hab_km2": 12049.87,
+    "codigo_unidade_geografica": 3552809
+  },
+  {
+    "municipios": "Taciba",
+    "populacao_total": 5714,
+    "area_total_km2": 607.3,
+    "densidade_demografica_hab_km2": 9.41,
+    "codigo_unidade_geografica": 3552908
+  },
+  {
+    "municipios": "Taguaí",
+    "populacao_total": 10828,
+    "area_total_km2": 145.3,
+    "densidade_demografica_hab_km2": 74.51,
+    "codigo_unidade_geografica": 3553005
+  },
+  {
+    "municipios": "Taiaçu",
+    "populacao_total": 5894,
+    "area_total_km2": 106.6,
+    "densidade_demografica_hab_km2": 55.27,
+    "codigo_unidade_geografica": 3553104
+  },
+  {
+    "municipios": "Taiúva",
+    "populacao_total": 5447,
+    "area_total_km2": 132.5,
+    "densidade_demografica_hab_km2": 41.12,
+    "codigo_unidade_geografica": 3553203
+  },
+  {
+    "municipios": "Tambaú",
+    "populacao_total": 22406,
+    "area_total_km2": 561.8,
+    "densidade_demografica_hab_km2": 39.88,
+    "codigo_unidade_geografica": 3553302
+  },
+  {
+    "municipios": "Tanabi",
+    "populacao_total": 24055,
+    "area_total_km2": 745.8,
+    "densidade_demografica_hab_km2": 32.25,
+    "codigo_unidade_geografica": 3553401
+  },
+  {
+    "municipios": "Tapiraí",
+    "populacao_total": 8012,
+    "area_total_km2": 755.1,
+    "densidade_demografica_hab_km2": 10.61,
+    "codigo_unidade_geografica": 3553500
+  },
+  {
+    "municipios": "Tapiratiba",
+    "populacao_total": 12737,
+    "area_total_km2": 222.5,
+    "densidade_demografica_hab_km2": 57.23,
+    "codigo_unidade_geografica": 3553609
+  },
+  {
+    "municipios": "Taquaral",
+    "populacao_total": 2726,
+    "area_total_km2": 53.9,
+    "densidade_demografica_hab_km2": 50.58,
+    "codigo_unidade_geografica": 3553658
+  },
+  {
+    "municipios": "Taquaritinga",
+    "populacao_total": 53988,
+    "area_total_km2": 593.6,
+    "densidade_demografica_hab_km2": 90.95,
+    "codigo_unidade_geografica": 3553708
+  },
+  {
+    "municipios": "Taquarituba",
+    "populacao_total": 22291,
+    "area_total_km2": 448.4,
+    "densidade_demografica_hab_km2": 49.71,
+    "codigo_unidade_geografica": 3553807
+  },
+  {
+    "municipios": "Taquarivaí",
+    "populacao_total": 5151,
+    "area_total_km2": 231.8,
+    "densidade_demografica_hab_km2": 22.22,
+    "codigo_unidade_geografica": 3553856
+  },
+  {
+    "municipios": "Tarabai",
+    "populacao_total": 6607,
+    "area_total_km2": 196.8,
+    "densidade_demografica_hab_km2": 33.57,
+    "codigo_unidade_geografica": 3553906
+  },
+  {
+    "municipios": "Tarumã",
+    "populacao_total": 12885,
+    "area_total_km2": 303.2,
+    "densidade_demografica_hab_km2": 42.5,
+    "codigo_unidade_geografica": 3553955
+  },
+  {
+    "municipios": "Tatuí",
+    "populacao_total": 107326,
+    "area_total_km2": 523.5,
+    "densidade_demografica_hab_km2": 205.03,
+    "codigo_unidade_geografica": 3554003
+  },
+  {
+    "municipios": "Taubaté",
+    "populacao_total": 278686,
+    "area_total_km2": 624.9,
+    "densidade_demografica_hab_km2": 445.98,
+    "codigo_unidade_geografica": 3554102
+  },
+  {
+    "municipios": "Tejupá",
+    "populacao_total": 4809,
+    "area_total_km2": 296.3,
+    "densidade_demografica_hab_km2": 16.23,
+    "codigo_unidade_geografica": 3554201
+  },
+  {
+    "municipios": "Teodoro Sampaio",
+    "populacao_total": 21386,
+    "area_total_km2": 1556.0,
+    "densidade_demografica_hab_km2": 13.74,
+    "codigo_unidade_geografica": 3554300
+  },
+  {
+    "municipios": "Terra Roxa",
+    "populacao_total": 8505,
+    "area_total_km2": 221.5,
+    "densidade_demografica_hab_km2": 38.39,
+    "codigo_unidade_geografica": 3554409
+  },
+  {
+    "municipios": "Tietê",
+    "populacao_total": 36835,
+    "area_total_km2": 404.8,
+    "densidade_demografica_hab_km2": 91.0,
+    "codigo_unidade_geografica": 3554508
+  },
+  {
+    "municipios": "Timburi",
+    "populacao_total": 2646,
+    "area_total_km2": 196.8,
+    "densidade_demografica_hab_km2": 13.45,
+    "codigo_unidade_geografica": 3554607
+  },
+  {
+    "municipios": "Torre de Pedra",
+    "populacao_total": 2254,
+    "area_total_km2": 71.3,
+    "densidade_demografica_hab_km2": 31.59,
+    "codigo_unidade_geografica": 3554656
+  },
+  {
+    "municipios": "Torrinha",
+    "populacao_total": 9330,
+    "area_total_km2": 310.7,
+    "densidade_demografica_hab_km2": 30.03,
+    "codigo_unidade_geografica": 3554706
+  },
+  {
+    "municipios": "Trabiju",
+    "populacao_total": 1544,
+    "area_total_km2": 63.4,
+    "densidade_demografica_hab_km2": 24.35,
+    "codigo_unidade_geografica": 3554755
+  },
+  {
+    "municipios": "Tremembé",
+    "populacao_total": 40984,
+    "area_total_km2": 191.4,
+    "densidade_demografica_hab_km2": 214.17,
+    "codigo_unidade_geografica": 3554805
+  },
+  {
+    "municipios": "Três Fronteiras",
+    "populacao_total": 5427,
+    "area_total_km2": 153.1,
+    "densidade_demografica_hab_km2": 35.45,
+    "codigo_unidade_geografica": 3554904
+  },
+  {
+    "municipios": "Tuiuti",
+    "populacao_total": 5930,
+    "area_total_km2": 126.7,
+    "densidade_demografica_hab_km2": 46.8,
+    "codigo_unidade_geografica": 3554953
+  },
+  {
+    "municipios": "Tupã",
+    "populacao_total": 63476,
+    "area_total_km2": 628.5,
+    "densidade_demografica_hab_km2": 100.99,
+    "codigo_unidade_geografica": 3555000
+  },
+  {
+    "municipios": "Tupi Paulista",
+    "populacao_total": 14269,
+    "area_total_km2": 245.3,
+    "densidade_demografica_hab_km2": 58.16,
+    "codigo_unidade_geografica": 3555109
+  },
+  {
+    "municipios": "Turiúba",
+    "populacao_total": 1930,
+    "area_total_km2": 153.1,
+    "densidade_demografica_hab_km2": 12.6,
+    "codigo_unidade_geografica": 3555208
+  },
+  {
+    "municipios": "Turmalina",
+    "populacao_total": 1978,
+    "area_total_km2": 147.9,
+    "densidade_demografica_hab_km2": 13.37,
+    "codigo_unidade_geografica": 3555307
+  },
+  {
+    "municipios": "Ubarana",
+    "populacao_total": 5289,
+    "area_total_km2": 209.6,
+    "densidade_demografica_hab_km2": 25.23,
+    "codigo_unidade_geografica": 3555356
+  },
+  {
+    "municipios": "Ubatuba",
+    "populacao_total": 78801,
+    "area_total_km2": 710.8,
+    "densidade_demografica_hab_km2": 110.87,
+    "codigo_unidade_geografica": 3555406
+  },
+  {
+    "municipios": "Ubirajara",
+    "populacao_total": 4427,
+    "area_total_km2": 282.4,
+    "densidade_demografica_hab_km2": 15.68,
+    "codigo_unidade_geografica": 3555505
+  },
+  {
+    "municipios": "Uchoa",
+    "populacao_total": 9471,
+    "area_total_km2": 252.5,
+    "densidade_demografica_hab_km2": 37.51,
+    "codigo_unidade_geografica": 3555604
+  },
+  {
+    "municipios": "União Paulista",
+    "populacao_total": 1599,
+    "area_total_km2": 79.1,
+    "densidade_demografica_hab_km2": 20.21,
+    "codigo_unidade_geografica": 3555703
+  },
+  {
+    "municipios": "Urânia",
+    "populacao_total": 8836,
+    "area_total_km2": 208.9,
+    "densidade_demografica_hab_km2": 42.29,
+    "codigo_unidade_geografica": 3555802
+  },
+  {
+    "municipios": "Uru",
+    "populacao_total": 1251,
+    "area_total_km2": 147.0,
+    "densidade_demografica_hab_km2": 8.51,
+    "codigo_unidade_geografica": 3555901
+  },
+  {
+    "municipios": "Urupês",
+    "populacao_total": 12714,
+    "area_total_km2": 323.7,
+    "densidade_demografica_hab_km2": 39.27,
+    "codigo_unidade_geografica": 3556008
+  },
+  {
+    "municipios": "Valentim Gentil",
+    "populacao_total": 11036,
+    "area_total_km2": 149.7,
+    "densidade_demografica_hab_km2": 73.72,
+    "codigo_unidade_geografica": 3556107
+  },
+  {
+    "municipios": "Valinhos",
+    "populacao_total": 106793,
+    "area_total_km2": 148.1,
+    "densidade_demografica_hab_km2": 721.02,
+    "codigo_unidade_geografica": 3556206
+  },
+  {
+    "municipios": "Valparaíso",
+    "populacao_total": 22576,
+    "area_total_km2": 857.5,
+    "densidade_demografica_hab_km2": 26.33,
+    "codigo_unidade_geografica": 3556305
+  },
+  {
+    "municipios": "Vargem",
+    "populacao_total": 8801,
+    "area_total_km2": 142.8,
+    "densidade_demografica_hab_km2": 61.64,
+    "codigo_unidade_geografica": 3556354
+  },
+  {
+    "municipios": "Vargem Grande do Sul",
+    "populacao_total": 39266,
+    "area_total_km2": 267.2,
+    "densidade_demografica_hab_km2": 146.94,
+    "codigo_unidade_geografica": 3556404
+  },
+  {
+    "municipios": "Vargem Grande Paulista",
+    "populacao_total": 42997,
+    "area_total_km2": 42.1,
+    "densidade_demografica_hab_km2": 1021.79,
+    "codigo_unidade_geografica": 3556453
+  },
+  {
+    "municipios": "Várzea Paulista",
+    "populacao_total": 107089,
+    "area_total_km2": 34.8,
+    "densidade_demografica_hab_km2": 3076.65,
+    "codigo_unidade_geografica": 3556503
+  },
+  {
+    "municipios": "Vera Cruz",
+    "populacao_total": 10769,
+    "area_total_km2": 248.1,
+    "densidade_demografica_hab_km2": 43.41,
+    "codigo_unidade_geografica": 3556602
+  },
+  {
+    "municipios": "Vinhedo",
+    "populacao_total": 63611,
+    "area_total_km2": 81.6,
+    "densidade_demografica_hab_km2": 779.51,
+    "codigo_unidade_geografica": 3556701
+  },
+  {
+    "municipios": "Viradouro",
+    "populacao_total": 17297,
+    "area_total_km2": 217.7,
+    "densidade_demografica_hab_km2": 79.44,
+    "codigo_unidade_geografica": 3556800
+  },
+  {
+    "municipios": "Vista Alegre do Alto",
+    "populacao_total": 6886,
+    "area_total_km2": 95.0,
+    "densidade_demografica_hab_km2": 72.5,
+    "codigo_unidade_geografica": 3556909
+  },
+  {
+    "municipios": "Vitória Brasil",
+    "populacao_total": 1737,
+    "area_total_km2": 49.7,
+    "densidade_demografica_hab_km2": 34.95,
+    "codigo_unidade_geografica": 3556958
+  },
+  {
+    "municipios": "Votorantim",
+    "populacao_total": 108809,
+    "area_total_km2": 183.7,
+    "densidade_demografica_hab_km2": 592.47,
+    "codigo_unidade_geografica": 3557006
+  },
+  {
+    "municipios": "Votuporanga",
+    "populacao_total": 84692,
+    "area_total_km2": 424.1,
+    "densidade_demografica_hab_km2": 199.69,
+    "codigo_unidade_geografica": 3557105
+  },
+  {
+    "municipios": "Zacarias",
+    "populacao_total": 2335,
+    "area_total_km2": 319.1,
+    "densidade_demografica_hab_km2": 7.32,
+    "codigo_unidade_geografica": 3557154
+  }
+]
