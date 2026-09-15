@@ -2,131 +2,198 @@
 
 ## Sobre o projeto
 
-Este repositório reúne atividades práticas que desenvolvi durante uma formação em Engenharia e Análise de Dados promovida pela [MCIO Brasil](https://mciobrasil.org.br/) em parceria com a [Leega](https://leega.com.br/).
+Este repositório reúne exercícios práticos realizados durante o **Módulo 2 – Preparação de Dados** de uma formação em Engenharia e Análise de Dados promovida pela [MCIO Brasil](https://mciobrasil.org.br/) em parceria com a [Leega](https://leega.com.br/).
 
-No **Módulo 2 — Preparação de Dados**, o treinamento apresentou conceitos de aquisição, limpeza, transformação e carga de dados e utilizou o **Pentaho Data Integration (PDI / Spoon)** para construir fluxos de preparação de dados.
+O módulo apresentou conceitos relacionados à aquisição, limpeza, transformação e carga de dados, utilizando o **Pentaho Data Integration (PDI / Spoon)** para a construção de fluxos de preparação de dados.
 
-A partir dos exercícios propostos, organizei as transformações em um projeto único para documentar o que pratiquei e tornar o aprendizado mais fácil de visualizar no GitHub.
+Este módulo marcou também o meu **primeiro contato prático com o Pentaho**.
 
-> Este é um projeto de estudo. As transformações foram criadas a partir das atividades do treinamento e organizadas/revisadas posteriormente para apresentação em portfólio.
+As transformações apresentadas neste repositório são **exercícios propostos pela Leega**, que reproduzi durante o treinamento para aprender a utilizar a ferramenta e aplicar, pela primeira vez, conceitos de preparação de dados e ETL no Pentaho.
+
+Posteriormente, organizei os arquivos em um único repositório para documentar meu processo de aprendizagem e facilitar a visualização dos exercícios no GitHub.
+
+> Este é um projeto de estudo. Os fluxos foram reproduzidos a partir das atividades propostas durante o treinamento e organizados posteriormente para fins de documentação e portfólio.
+
+---
 
 ## Objetivo
 
-Praticar um fluxo de preparação de dados utilizando diferentes fontes e formatos, aplicando conceitos de ETL e data preparation, como:
+Praticar operações de preparação de dados utilizando diferentes fontes e formatos, aplicando conceitos apresentados durante o treinamento, como:
 
 - leitura de arquivos Excel, CSV e JSON;
 - leitura de dados provenientes do Microsoft Access;
-- exportação simultânea para diferentes formatos;
+- exportação de dados para diferentes formatos;
 - seleção e remoção de campos;
 - substituição e padronização de valores;
 - tratamento de valores nulos;
 - separação e concatenação de campos;
-- cálculo entre datas;
-- filtros e direcionamento condicional do fluxo;
-- lookup e junção de dados por chaves comuns.
+- cálculos entre datas;
+- aplicação de filtros;
+- controle e direcionamento de fluxo;
+- uso de lookup;
+- ordenação de registros;
+- junção de dados através de chaves comuns.
 
-## Transformações desenvolvidas
+---
+
+## Transformações reproduzidas durante o treinamento
 
 ### 1. Leitura de Excel
 
-Arquivo: `transformacoes/01_leitura_excel.ktr`
+Arquivo:
 
-Primeiro contato com a construção de uma transformação no Pentaho, realizando a leitura de uma planilha Excel e encaminhando os registros para um step Dummy para validação do fluxo.
+`transformacoes_pentaho/01_leitura_excel.ktr`
+
+Um dos primeiros exercícios realizados no Pentaho consistiu na leitura de uma planilha Excel e no envio dos registros para um step `Dummy`, permitindo validar a entrada dos dados e compreender o funcionamento básico de uma transformação.
 
 ```mermaid
 flowchart LR
     A[Excel Input] --> B[Dummy]
 ```
 
+---
+
 ### 2. Leitura de JSON
 
-Arquivo: `transformacoes/02_leitura_json.ktr`
+Arquivo:
 
-Leitura de um arquivo JSON com definição dos campos e tipos de dados e validação dos registros antes das etapas seguintes do processo.
+`transformacoes_pentaho/02_leitura_json.ktr`
+
+Neste exercício foi realizada a leitura de um arquivo JSON, com identificação dos campos e tipos de dados antes do envio dos registros para a etapa seguinte da transformação.
 
 ```mermaid
 flowchart LR
     A[JSON Input] --> B[Dummy]
 ```
 
+### Visualização no Pentaho
+
+![Leitura de JSON](imagens/transf3.jpg)
+
+---
+
 ### 3. Exportação para múltiplos formatos
 
-Arquivo: `transformacoes/03_exportacao_multiformato.ktr`
+Arquivo:
 
-A transformação lê uma tabela originada de um banco Microsoft Access e distribui uma cópia dos registros para três saídas diferentes: JSON, Excel e CSV.
+`transformacoes_pentaho/03_exportacao_multiformato.ktr`
+
+Neste exercício, uma tabela proveniente de uma base **Microsoft Access** é lida pelo Pentaho e os mesmos registros são direcionados para diferentes formatos de saída.
+
+Foram utilizados:
+
+- JSON;
+- Excel;
+- arquivo texto/CSV.
 
 ```mermaid
 flowchart LR
     A[Microsoft Access Input] --> B[JSON Output]
     A --> C[Excel Output]
-    A --> D[CSV Output]
+    A --> D[Text File Output]
 ```
 
-Essa atividade permitiu praticar a diferença entre entrada e saída de dados e o reaproveitamento de um mesmo fluxo para múltiplos destinos.
+O exercício permitiu praticar o uso de steps de entrada e saída e visualizar como uma mesma origem de dados pode alimentar diferentes destinos.
 
-### 4. Limpeza e transformação de clientes
+### Visualização no Pentaho
 
-Arquivo: `transformacoes/04_limpeza_clientes.ktr`
+![Exportação para múltiplos formatos](imagens/transf4.jpg)
 
-Pipeline de preparação de uma base CSV de clientes. Entre as operações realizadas estão:
+---
+
+### 4. Limpeza e transformação de dados de clientes
+
+Arquivo:
+
+`transformacoes_pentaho/04_limpeza_clientes.ktr`
+
+Neste exercício foi realizada a preparação de uma base CSV de clientes.
+
+Entre as operações praticadas estão:
 
 - seleção dos campos necessários;
 - remoção de caracteres indesejados;
-- separação de ID e nome;
+- separação do campo contendo ID e nome;
 - separação da data de nascimento em dia, mês e ano;
-- concatenação de ano e mês em `Ano_Mes`;
-- tratamento de valores nulos no campo `Tipo`;
+- concatenação de ano e mês em um novo campo;
+- tratamento de valores nulos;
 - remoção de campos intermediários;
-- exportação do resultado para CSV.
+- exportação do resultado tratado para CSV.
 
 ```mermaid
 flowchart LR
     A[CSV Input] --> B[Select Values]
     B --> C[Replace in String]
-    C --> D[Split ID / Nome]
-    D --> E[Split Data]
-    E --> F[Concat Ano_Mes]
+    C --> D[Split Fields]
+    D --> E[Split Fields]
+    E --> F[Concat Fields]
     F --> G[Tratamento de Nulos]
     G --> H[Select Values]
-    H --> I[CSV Output]
+    H --> I[Text File Output]
 ```
+
+### Visualização no Pentaho
+
+![Limpeza e transformação de dados](imagens/transf5.jpg)
+
+---
 
 ### 5. Controle de fluxo de clientes
 
-Arquivo: `transformacoes/05_controle_fluxo_clientes.ktr`
+Arquivo:
 
-Nesta transformação foram utilizadas regras de negócio para controlar o fluxo dos registros:
+`transformacoes_pentaho/05_controle_fluxo_clientes.ktr`
 
-- padronização de `Masculino` e `Feminino` para `M` e `F`;
+Este exercício teve como objetivo praticar o controle do fluxo de registros dentro de uma transformação.
+
+Foram aplicadas operações como:
+
+- padronização dos valores de sexo;
+- transformação de `Masculino` e `Feminino` em `M` e `F`;
 - inclusão da data atual do sistema;
-- cálculo da quantidade de dias desde a adesão do cliente;
-- filtro dos registros com `Tipo = A`;
-- separação do fluxo de acordo com o sexo do cliente.
+- cálculo do número de dias desde a adesão do cliente;
+- filtragem dos registros de acordo com uma condição;
+- direcionamento dos registros para fluxos diferentes.
 
 ```mermaid
 flowchart LR
     A[CSV Input] --> B[Replace in String]
     B --> C[Get System Info]
     C --> D[Calculator]
-    D --> E{Tipo = A?}
-    E -->|Sim| F{Sexo}
-    F -->|M| G[Dummy M]
-    F -->|F| H[Dummy F]
+    D --> E[Filter Rows]
+    E --> F[Switch / Case]
+    F --> G[Dummy M]
+    F --> H[Dummy F]
 ```
+
+Esse exercício ajudou a compreender que uma transformação pode não apenas modificar dados, mas também controlar quais registros continuam em cada parte do fluxo.
+
+---
 
 ### 6. Integração de clientes, regiões e vendas
 
-Arquivo: `transformacoes/06_integracao_vendas.ktr`
+Arquivo:
 
-O fluxo final reúne informações provenientes de diferentes abas de uma planilha de vendas.
+`transformacoes_pentaho/06_integracao_vendas.ktr`
 
-A lógica utilizada é:
+O exercício final trabalha a integração de informações provenientes de diferentes abas de uma planilha.
 
-1. ler dados de clientes, regiões e vendas;
-2. enriquecer as vendas com cidade, estado e país por meio de `idRegiao`;
-3. ordenar os fluxos pela chave `idCliente`;
-4. realizar um `INNER Merge Join` entre clientes e vendas;
-5. selecionar os campos necessários para o resultado final.
+São utilizadas informações relacionadas a:
+
+- clientes;
+- regiões;
+- vendas.
+
+A transformação utiliza uma chave em comum para enriquecer os dados de vendas com informações de região e posteriormente realizar a junção com os dados dos clientes.
+
+A lógica do fluxo envolve:
+
+1. leitura dos dados de clientes, regiões e vendas;
+2. associação entre vendas e regiões através de `idRegiao`;
+3. recuperação de cidade, estado e país através de `Stream Lookup`;
+4. ordenação dos dados pela chave `idCliente`;
+5. realização de um `INNER Merge Join`;
+6. seleção dos campos necessários para o resultado final.
 
 ```mermaid
 flowchart LR
@@ -140,83 +207,170 @@ flowchart LR
     S --> D[Dummy]
 ```
 
-## Revisão técnica realizada para o portfólio
+### Visualização no Pentaho
 
-Ao organizar os arquivos para publicação, revisei as transformações e fiz duas adequações sem alterar os arquivos originais do treinamento:
+![Integração de dados com joins](imagens/transf6.jpg)
 
-- substituí caminhos absolutos locais (`C:\\...`) por caminhos relativos ao repositório, facilitando a execução em outra máquina;
-- na transformação de integração, ajustei o lookup para relacionar `Vendas[idRegiao]` com `Regiao[idRegiao]`, de acordo com a estrutura da planilha utilizada neste repositório, e depois realizar a junção com clientes por `idCliente`.
+---
 
-Também defini a leitura do arquivo `Clientes.csv` como Windows-1252 nas cópias organizadas para preservar corretamente os caracteres acentuados da base fornecida.
+## Organização dos arquivos para o GitHub
+
+Para facilitar a visualização e a execução dos exercícios fora do ambiente em que foram originalmente criados, as cópias publicadas neste repositório foram organizadas utilizando caminhos relativos.
+
+Por exemplo:
+
+```text
+${Internal.Entry.Current.Directory}/../dados/entrada/
+```
+
+Dessa forma, os arquivos não dependem de um caminho específico como `C:\...` existente apenas no computador em que a atividade foi realizada.
+
+Na transformação de integração de vendas, o lookup também foi organizado para relacionar corretamente:
+
+```text
+Vendas[idRegiao] → Regiao[idRegiao]
+```
+
+Posteriormente, os dados de vendas e clientes são relacionados através de:
+
+```text
+Vendas[idCliente] → Clientes[idCliente]
+```
+
+---
 
 ## Estrutura do repositório
 
 ```text
-etl-pentaho-data-preparation/
+pentaho-data-preparation-leega/
+│
 ├── README.md
-├── NOTAS_TECNICAS.md
-├── transformacoes/
+│
+├── transformacoes_pentaho/
 │   ├── 01_leitura_excel.ktr
 │   ├── 02_leitura_json.ktr
 │   ├── 03_exportacao_multiformato.ktr
 │   ├── 04_limpeza_clientes.ktr
 │   ├── 05_controle_fluxo_clientes.ktr
 │   └── 06_integracao_vendas.ktr
+│
 ├── dados/
 │   ├── entrada/
 │   └── saida/
+│
 └── imagens/
+    ├── transf3.jpg
+    ├── transf4.jpg
+    ├── transf5.jpg
+    └── transf6.jpg
 ```
+
+---
 
 ## Como executar
 
+Para abrir os exercícios:
+
 1. Abra o **Pentaho Data Integration (Spoon)**.
-2. Abra um dos arquivos `.ktr` da pasta `transformacoes`.
-3. Mantenha a estrutura de pastas do projeto, pois os caminhos dos arquivos foram configurados de forma relativa.
-4. Execute a transformação e acompanhe os indicadores de execução em `Step Metrics`.
-5. Nas transformações com saída física, confira os arquivos gerados em `dados/saida`.
+2. Acesse um dos arquivos `.ktr` disponíveis em `transformacoes_pentaho`.
+3. Mantenha a estrutura de pastas do repositório para que os caminhos relativos continuem funcionando.
+4. Execute a transformação.
+5. Acompanhe o processamento através das métricas apresentadas pelo Pentaho.
+6. Nas transformações que geram arquivos físicos, consulte a pasta `dados/saida`.
 
-## Arquivos de saída disponíveis
+---
 
-A transformação de exportação multiformato possui exemplos de saída em:
+## Exemplos de arquivos de saída
 
-- `dados/saida/habitantes_exportado.json`
-- `dados/saida/habitantes_exportado.xls`
-- `dados/saida/habitantes_exportado.csv`
+A transformação de exportação para múltiplos formatos gera exemplos de saída como:
 
-## O que pratiquei neste módulo
+```text
+dados/saida/habitantes_exportado.json
+dados/saida/habitantes_exportado.xls
+dados/saida/habitantes_exportado.csv
+```
 
-- Pentaho Data Integration / Spoon
-- ETL e preparação de dados
-- CSV, JSON, Excel e Microsoft Access
-- Input e Output steps
-- Select Values
-- Replace in String
-- Split Fields
-- Concat Fields
-- tratamento de nulos
-- Get System Info
-- Calculator
-- Filter Rows
-- Switch / Case
-- Stream Lookup
-- Sort Rows
-- Merge Join
-- controle e direcionamento de fluxo
+---
+
+## O que pratiquei durante o módulo
+
+Durante meu primeiro contato prático com o Pentaho PDI, tive a oportunidade de utilizar recursos como:
+
+- Pentaho Data Integration;
+- Spoon;
+- conceitos de ETL;
+- preparação de dados;
+- CSV;
+- JSON;
+- Excel;
+- Microsoft Access;
+- Input steps;
+- Output steps;
+- Select Values;
+- Replace in String;
+- Split Fields;
+- Concat Fields;
+- tratamento de valores nulos;
+- Get System Info;
+- Calculator;
+- Filter Rows;
+- Switch / Case;
+- Stream Lookup;
+- Sort Rows;
+- Merge Join;
+- controle de fluxo;
+- integração de dados através de chaves.
+
+---
+
+## Aprendizado
+
+Como este foi meu primeiro contato com o Pentaho, os exercícios foram importantes para compreender visualmente como os dados percorrem um pipeline.
+
+Ao longo das atividades, pude observar na prática a sequência de um processo de preparação de dados:
+
+```text
+Entrada
+   ↓
+Seleção
+   ↓
+Limpeza
+   ↓
+Transformação
+   ↓
+Integração
+   ↓
+Saída
+```
+
+A experiência também ajudou a relacionar conceitos já estudados em outras ferramentas, como filtros, transformações e joins, com a construção visual de pipelines no Pentaho.
+
+---
 
 ## Próximos passos
 
-Como evolução deste estudo, pretendo aplicar os mesmos conceitos em um pipeline com uma base diferente, acrescentando validações de qualidade, tratamento de erros e carga em banco de dados.
+Como evolução deste aprendizado, pretendo aplicar os conceitos praticados em uma base diferente, construindo um pequeno pipeline próprio e acrescentando etapas como:
+
+- validação da qualidade dos dados;
+- tratamento de erros;
+- carga em banco de dados;
+- automatização de processos de ETL.
+
+---
 
 ## Sobre a formação
 
-Este projeto faz parte dos estudos realizados em uma formação da **Leega**, em parceria com a **MCIO Brasil**.
+Os exercícios apresentados neste repositório foram propostos durante uma formação promovida pela **MCIO Brasil em parceria com a Leega**.
 
-- Leega: https://leega.com.br/
-- MCIO Brasil: https://mciobrasil.org.br/
+- [Leega](https://leega.com.br/)
+- [MCIO Brasil](https://mciobrasil.org.br/)
 
-A publicação tem como objetivo documentar meu aprendizado e demonstrar, de forma prática, as transformações que desenvolvi durante o módulo de Preparação de Dados.
+Este repositório tem finalidade educacional e de portfólio, com o objetivo de documentar o que aprendi e pratiquei durante o módulo de **Preparação de Dados**.
+
+---
 
 ## Observação sobre as bases
 
-Os arquivos de dados utilizados foram disponibilizados ou produzidos durante os exercícios do treinamento. Antes de publicar as bases em um repositório público, é recomendável confirmar se sua redistribuição é permitida. Caso haja dúvida, mantenha no GitHub apenas as transformações `.ktr`, a documentação e imagens dos fluxos, removendo a pasta `dados/entrada`.
+Os arquivos utilizados nos exercícios foram disponibilizados ou produzidos durante o treinamento.
+
+Caso alguma base utilizada esteja sujeita a restrições de redistribuição, ela poderá ser removida do repositório público sem comprometer a documentação das transformações, que permanece disponível através dos arquivos `.ktr`, das imagens e deste README.
